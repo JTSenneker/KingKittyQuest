@@ -1378,3 +1378,874 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.03.27-18.50.57:679][551]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/ThirdPersonExampleMap_Auto309DA9DBD494D7A7BDCD30A9E2EDF54D6.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
 [2019.03.27-18.50.57:694][551]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.473
 [2019.03.27-18.50.57:694][551]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.473
+[2019.03.27-18.51.57:081][767]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.27-18.51.57:109][767]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.51.57:110][767]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-18.51.57:111][767]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 27, 2019, 10:51:57 AM)
+[2019.03.27-18.51.57:111][767]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.03.27-18.51.57:124][767]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013016s)
+[2019.03.27-18.51.57:125][767]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.03.27-18.51.57:126][767]LogPlayLevel: PIE: World Init took: (0.001238s)
+[2019.03.27-18.51.57:126][767]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014998s)
+[2019.03.27-18.51.57:187][767]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.27-18.51.57:202][767]LogInit: FAudioDevice initialized.
+[2019.03.27-18.51.57:232][767]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.27-18.51.57:236][767]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.03.27-14.51.57
+[2019.03.27-18.51.57:238][767]LogWorld: Bringing up level for play took: 0.004280
+[2019.03.27-18.51.57:254][767]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.661
+[2019.03.27-18.51.57:255][767]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.51.58:024][805]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.27-18.51.59:619][899]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.51.59:621][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.51.59:663][899]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-18.51.59:664][899]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.51.59:736][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.51.59:771][900]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.03.27-18.52.01:088][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-18.52.21:900][487]BlueprintLog: New page: Compile KingKittyCharacter
+[2019.03.27-18.52.22:996][523]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/KingKittyCharacter65721559423DDF3E6166AFAFD93E7107.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/KingKittyCharacter.uasset'
+[2019.03.27-18.52.23:358][542]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-18.52.29:770][  7]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.27-18.52.29:813][  7]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.52.29:815][  7]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-18.52.29:815][  7]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 27, 2019, 10:52:29 AM)
+[2019.03.27-18.52.29:815][  7]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.03.27-18.52.29:826][  7]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010761s)
+[2019.03.27-18.52.29:827][  7]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.03.27-18.52.29:827][  7]LogPlayLevel: PIE: World Init took: (0.000967s)
+[2019.03.27-18.52.29:828][  7]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012448s)
+[2019.03.27-18.52.29:883][  7]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.27-18.52.29:896][  7]LogInit: FAudioDevice initialized.
+[2019.03.27-18.52.29:929][  7]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.27-18.52.29:932][  7]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.03.27-14.52.29
+[2019.03.27-18.52.29:932][  7]LogWorld: Bringing up level for play took: 0.002292
+[2019.03.27-18.52.29:948][  7]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.646
+[2019.03.27-18.52.29:948][  7]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.52.30:553][ 39]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.27-18.52.37:786][503]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-18.52.39:466][633]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.52.39:468][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.52.39:537][633]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-18.52.39:538][633]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.52.39:609][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.52.39:702][634]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.03.27-18.52.41:050][713]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-18.54.16:201][568]BlueprintLog: New page: Compile KingKittyCharacter
+[2019.03.27-18.54.16:236][568]LogBlueprint: Error: [Compiler KingKittyCharacter] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2019.03.27-18.54.16:238][568]LogBlueprint: Error: [Compiler KingKittyCharacter] Variable node  Set bShowMouseCursor  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.03.27-18.54.16:516][568]LogBlueprint: Warning: [Compiler KingKittyCharacter] [4658.95] Compile of KingKittyCharacter failed. 2 Fatal Issue(s) 0 Warning(s) [in 314 ms] (/Game/ThirdPersonBP/Blueprints/KingKittyCharacter.KingKittyCharacter)
+[2019.03.27-18.54.16:978][586]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/KingKittyCharacterF04E695B4D256133972C9686EBC6DA07.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/KingKittyCharacter.uasset'
+[2019.03.27-18.54.18:763][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-18.54.24:252][ 57]BlueprintLog: New page: Compile KingKittyCharacter
+[2019.03.27-18.54.25:402][ 98]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/KingKittyCharacter94B99BE1421A66C9448231AA11D5B4D9.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/KingKittyCharacter.uasset'
+[2019.03.27-18.54.25:953][127]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.27-18.56.03:687][531]BlueprintLog: New page: Compile MagicWidget
+[2019.03.27-18.56.04:460][568]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/MagicWidgetC17C39D848200EEF9ADCF7BA0AF5E2FE.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/MagicWidget.uasset'
+[2019.03.27-18.56.12:865][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-18.56.35:024][530]BlueprintLog: New page: Compile KingKittyCharacter
+[2019.03.27-18.56.35:842][549]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/KingKittyCharacter42B50B9A4F1C996E75E82D983A17F22C.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/KingKittyCharacter.uasset'
+[2019.03.27-18.56.37:251][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-18.56.37:340][650]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.27-18.56.37:386][650]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.56.37:387][650]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-18.56.37:387][650]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 27, 2019, 10:56:37 AM)
+[2019.03.27-18.56.37:387][650]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.03.27-18.56.37:400][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012670s)
+[2019.03.27-18.56.37:401][650]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.03.27-18.56.37:401][650]LogPlayLevel: PIE: World Init took: (0.001016s)
+[2019.03.27-18.56.37:402][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014388s)
+[2019.03.27-18.56.37:452][650]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.27-18.56.37:465][650]LogInit: FAudioDevice initialized.
+[2019.03.27-18.56.37:501][650]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.27-18.56.37:504][650]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.03.27-14.56.37
+[2019.03.27-18.56.37:505][650]LogWorld: Bringing up level for play took: 0.002014
+[2019.03.27-18.56.37:521][650]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.923
+[2019.03.27-18.56.37:522][650]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.56.38:166][681]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.27-18.56.49:577][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-18.56.50:706][522]LogBlueprintUserMessages: [MagicWidget_C_0] E
+[2019.03.27-18.56.50:707][522]LogBlueprintUserMessages: [MagicWidget_C_0] E
+[2019.03.27-18.56.50:707][522]LogBlueprintUserMessages: [MagicWidget_C_0] Is this done
+[2019.03.27-18.56.51:762][589]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.56.51:765][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.56.51:833][589]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-18.56.51:834][589]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.56.51:903][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.56.52:006][590]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.03.27-18.57.51:813][547]BlueprintLog: New page: Compile MagicWidget
+[2019.03.27-18.57.52:557][584]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/MagicWidgetBB8047134968A6CD85D222AC3F823A54.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/MagicWidget.uasset'
+[2019.03.27-18.57.53:626][658]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.27-18.57.53:654][658]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.57.53:655][658]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-18.57.53:655][658]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 27, 2019, 10:57:53 AM)
+[2019.03.27-18.57.53:656][658]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.03.27-18.57.53:669][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012899s)
+[2019.03.27-18.57.53:670][658]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.03.27-18.57.53:670][658]LogPlayLevel: PIE: World Init took: (0.001159s)
+[2019.03.27-18.57.53:671][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014827s)
+[2019.03.27-18.57.53:723][658]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.27-18.57.53:738][658]LogInit: FAudioDevice initialized.
+[2019.03.27-18.57.53:772][658]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.27-18.57.53:776][658]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.03.27-14.57.53
+[2019.03.27-18.57.53:777][658]LogWorld: Bringing up level for play took: 0.003869
+[2019.03.27-18.57.53:793][658]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.806
+[2019.03.27-18.57.53:794][658]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.57.54:136][675]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.27-18.57.57:782][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-18.57.59:477][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-18.57.59:600][ 44]LogBlueprintUserMessages: [MagicWidget_C_0] F
+[2019.03.27-18.57.59:600][ 44]LogBlueprintUserMessages: [MagicWidget_C_0] Is this done
+[2019.03.27-18.58.00:427][105]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.58.00:428][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.58.00:468][105]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-18.58.00:468][105]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.58.00:532][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.58.00:562][106]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.03.27-18.58.05:160][402]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/KingKittyCharacter71F87FD545748464D0A8A08DCC1C25D6.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/KingKittyCharacter.uasset'
+[2019.03.27-18.58.15:150][ 21]BlueprintLog: New page: Compile KingKittyCharacter
+[2019.03.27-18.58.16:040][ 44]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/KingKittyCharacterA20216584FA122FCDF5807BB9ECFD5A0.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/KingKittyCharacter.uasset'
+[2019.03.27-18.58.16:847][102]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.27-18.58.16:892][102]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.58.16:893][102]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-18.58.16:894][102]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 27, 2019, 10:58:16 AM)
+[2019.03.27-18.58.16:894][102]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.03.27-18.58.16:907][102]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013128s)
+[2019.03.27-18.58.16:908][102]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.03.27-18.58.16:909][102]LogPlayLevel: PIE: World Init took: (0.001081s)
+[2019.03.27-18.58.16:909][102]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015073s)
+[2019.03.27-18.58.16:967][102]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.27-18.58.16:980][102]LogInit: FAudioDevice initialized.
+[2019.03.27-18.58.17:012][102]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.27-18.58.17:015][102]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.03.27-14.58.17
+[2019.03.27-18.58.17:016][102]LogWorld: Bringing up level for play took: 0.002122
+[2019.03.27-18.58.17:030][102]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.431
+[2019.03.27-18.58.17:030][102]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.58.17:435][119]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.27-18.58.17:436][119]LogBlueprintUserMessages: [KingKittyCharacter_C_0] true
+[2019.03.27-18.58.19:290][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-18.58.21:288][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-18.58.21:418][404]LogBlueprintUserMessages: [MagicWidget_C_0] Is this done
+[2019.03.27-18.58.22:645][492]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.58.22:646][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.58.22:705][492]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-18.58.22:705][492]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.58.22:769][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.58.22:870][493]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.03.27-18.58.44:004][857]BlueprintLog: New page: Compile MagicWidget
+[2019.03.27-18.58.44:631][878]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/MagicWidget9E8D8D6546CAD9CBFBDBF183F7FF7CE4.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/MagicWidget.uasset'
+[2019.03.27-18.58.45:967][948]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.27-18.58.45:993][948]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.58.45:994][948]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-18.58.45:995][948]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 27, 2019, 10:58:45 AM)
+[2019.03.27-18.58.45:995][948]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.03.27-18.58.46:006][948]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010468s)
+[2019.03.27-18.58.46:007][948]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.03.27-18.58.46:007][948]LogPlayLevel: PIE: World Init took: (0.000975s)
+[2019.03.27-18.58.46:007][948]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012269s)
+[2019.03.27-18.58.46:065][948]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.27-18.58.46:078][948]LogInit: FAudioDevice initialized.
+[2019.03.27-18.58.46:111][948]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.27-18.58.46:113][948]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.03.27-14.58.46
+[2019.03.27-18.58.46:114][948]LogWorld: Bringing up level for play took: 0.002262
+[2019.03.27-18.58.46:129][948]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.471
+[2019.03.27-18.58.46:129][948]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.58.46:725][975]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.27-18.58.46:726][975]LogBlueprintUserMessages: [KingKittyCharacter_C_0] true
+[2019.03.27-18.58.50:262][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-18.58.50:361][192]LogBlueprintUserMessages: [MagicWidget_C_0] Is this done
+[2019.03.27-18.58.56:660][548]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-18.58.56:772][554]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.58.56:773][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.58.56:815][554]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-18.58.56:816][554]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.58.56:879][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.58.56:911][555]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.03.27-18.59.16:550][857]BlueprintLog: New page: Compile KingKittyCharacter
+[2019.03.27-18.59.16:577][857]LogBlueprint: Error: [Compiler KingKittyCharacter] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2019.03.27-18.59.16:578][857]LogBlueprint: Error: [Compiler KingKittyCharacter] Variable node  Set bShowMouseCursor  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.03.27-18.59.16:934][857]LogBlueprint: Warning: [Compiler KingKittyCharacter] [4959.37] Compile of KingKittyCharacter failed. 2 Fatal Issue(s) 0 Warning(s) [in 383 ms] (/Game/ThirdPersonBP/Blueprints/KingKittyCharacter.KingKittyCharacter)
+[2019.03.27-18.59.31:211][864]BlueprintLog: New page: Compile KingKittyCharacter
+[2019.03.27-18.59.32:084][893]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/KingKittyCharacterFF22F7724F8550BE1CB006A15BD7C099.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/KingKittyCharacter.uasset'
+[2019.03.27-18.59.36:278][171]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.27-18.59.36:323][171]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.59.36:324][171]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-18.59.36:324][171]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 27, 2019, 10:59:36 AM)
+[2019.03.27-18.59.36:324][171]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.03.27-18.59.36:335][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010387s)
+[2019.03.27-18.59.36:336][171]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.03.27-18.59.36:336][171]LogPlayLevel: PIE: World Init took: (0.000949s)
+[2019.03.27-18.59.36:336][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012051s)
+[2019.03.27-18.59.36:397][171]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.27-18.59.36:410][171]LogInit: FAudioDevice initialized.
+[2019.03.27-18.59.36:446][171]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.27-18.59.36:448][171]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.03.27-14.59.36
+[2019.03.27-18.59.36:449][171]LogWorld: Bringing up level for play took: 0.002060
+[2019.03.27-18.59.36:464][171]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.136
+[2019.03.27-18.59.36:465][171]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.59.36:836][186]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2019.03.27-18.59.36:836][186]LogBlueprintUserMessages: [KingKittyCharacter_C_0] true
+[2019.03.27-18.59.37:290][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-18.59.37:378][217]LogBlueprintUserMessages: [MagicWidget_C_0] Is this done
+[2019.03.27-18.59.37:724][237]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2019.03.27-18.59.37:725][237]LogBlueprintUserMessages: [KingKittyCharacter_C_0] true
+[2019.03.27-18.59.38:233][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-18.59.38:351][275]LogBlueprintUserMessages: [MagicWidget_C_1] Is this done
+[2019.03.27-18.59.38:775][302]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2019.03.27-18.59.38:776][302]LogBlueprintUserMessages: [KingKittyCharacter_C_0] true
+[2019.03.27-18.59.39:300][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-18.59.39:396][338]LogBlueprintUserMessages: [MagicWidget_C_2] Is this done
+[2019.03.27-18.59.39:843][364]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2019.03.27-18.59.39:843][364]LogBlueprintUserMessages: [KingKittyCharacter_C_0] true
+[2019.03.27-18.59.40:576][410]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-18.59.40:688][417]LogBlueprintUserMessages: [MagicWidget_C_3] Is this done
+[2019.03.27-19.00.13:565][359]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-19.00.13:566][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-19.00.13:605][359]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-19.00.13:606][359]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-19.00.13:666][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-19.00.13:722][360]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.03.27-19.00.31:872][546]BlueprintLog: New page: Compile KingKittyCharacter
+[2019.03.27-19.00.32:817][570]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/KingKittyCharacterF5A12BEA43769E3C36801993E02C4CBC.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/KingKittyCharacter.uasset'
+[2019.03.27-19.00.34:281][660]LogSlate: Window 'Message Log' being destroyed
+[2019.03.27-19.00.34:287][660]LogSlate: Window 'Message Log' being destroyed
+[2019.03.27-19.00.43:962][379]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/KingKittyCharacter68C5E6CF4157362F4C00FB85E10CC859.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/KingKittyCharacter.uasset'
+[2019.03.27-19.05.19:150][106]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/ThirdPersonExampleMap_Auto4A29E26864C1C6534919A4DA28DB788C2.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2019.03.27-19.05.19:162][106]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.390
+[2019.03.27-19.05.19:163][106]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.390
+[2019.03.27-19.05.19:164][106]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/MagicWidget] ([1] browsable assets)...
+[2019.03.27-19.05.19:165][106]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/MagicWidget]
+[2019.03.27-19.05.19:223][106]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/MagicWidget_Auto4B834A9994AFA3D6F67373F99A489B2DA.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/MagicWidget_Auto4.uasset'
+[2019.03.27-19.05.19:228][106]LogFileHelpers: Auto-saving content packages took 0.064
+[2019.03.27-19.05.36:011][140]BlueprintLog: New page: Compile MagicWidget
+[2019.03.27-19.05.36:825][173]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/MagicWidget3E060C59472A6AEC9E8A57AFCA3532BB.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/MagicWidget.uasset'
+[2019.03.27-19.21.19:322][427]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/ThirdPersonExampleMap_Auto5FC2D16484C89692847DAD59A2A7BB807.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2019.03.27-19.21.19:335][427]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.416
+[2019.03.27-19.21.19:335][427]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.416
+[2019.03.27-19.21.19:337][427]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/MagicWidget] ([1] browsable assets)...
+[2019.03.27-19.21.19:338][427]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/MagicWidget]
+[2019.03.27-19.21.19:420][427]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/MagicWidget_Auto5F152A5004151C4A75D38F994C692FD57.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/MagicWidget_Auto5.uasset'
+[2019.03.27-19.21.19:425][427]LogFileHelpers: Auto-saving content packages took 0.088
+[2019.03.27-19.24.53:423][497]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.03.27-19.24.55:796][617]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.03.27-19.24.55:802][617]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.03.27-19.25.01:005][882]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.03.27-19.25.05:935][116]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.03.27-19.25.12:213][395]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.03.27-19.25.18:148][667]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.03.27-19.26.12:548][271]BlueprintLog: New page: Compile MagicWidget
+[2019.03.27-19.26.12:573][271]LogBlueprint: Error: [Compiler MagicWidget] The type of  Variable  is undetermined.  Connect something to  Add  to imply a specific type.
+[2019.03.27-19.26.12:573][271]LogBlueprint: Error: [Compiler MagicWidget] The type of  Variable  is undetermined.  Connect something to  Add  to imply a specific type.
+[2019.03.27-19.26.12:573][271]LogBlueprint: Error: [Compiler MagicWidget] The type of  Target Array  is undetermined.  Connect something to  Add  to imply a specific type.
+[2019.03.27-19.26.12:574][271]LogBlueprint: Error: [Compiler MagicWidget] The type of  New Item  is undetermined.  Connect something to  Add  to imply a specific type.
+[2019.03.27-19.26.12:574][271]LogBlueprint: Error: [Compiler MagicWidget] The type of  Target Array  is undetermined.  Connect something to  Add  to imply a specific type.
+[2019.03.27-19.26.12:574][271]LogBlueprint: Error: [Compiler MagicWidget] The type of  New Item  is undetermined.  Connect something to  Add  to imply a specific type.
+[2019.03.27-19.26.12:575][271]LogBlueprint: Error: [Compiler MagicWidget] The type of  Target Array  is undetermined.  Connect something to  Add  to imply a specific type.
+[2019.03.27-19.26.12:575][271]LogBlueprint: Error: [Compiler MagicWidget] The type of  New Item  is undetermined.  Connect something to  Add  to imply a specific type.
+[2019.03.27-19.26.12:575][271]LogBlueprint: Error: [Compiler MagicWidget] The type of  Variable  is undetermined.  Connect something to  Add  to imply a specific type.
+[2019.03.27-19.26.12:576][271]LogBlueprint: Error: [Compiler MagicWidget] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2019.03.27-19.26.12:576][271]LogBlueprint: Error: [Compiler MagicWidget] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2019.03.27-19.26.12:577][271]LogBlueprint: Error: [Compiler MagicWidget] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2019.03.27-19.26.12:579][271]LogClass: Warning: Type mismatch in AirValue of MagicWidget_C - Previous (StrProperty) Current(IntProperty) for package:  FObjectReader
+[2019.03.27-19.26.12:579][271]LogClass: Warning: Type mismatch in FireValue of MagicWidget_C - Previous (StrProperty) Current(IntProperty) for package:  FObjectReader
+[2019.03.27-19.26.12:579][271]LogClass: Warning: Type mismatch in EarthValue of MagicWidget_C - Previous (StrProperty) Current(IntProperty) for package:  FObjectReader
+[2019.03.27-19.26.12:580][271]LogClass: Warning: Type mismatch in WaterValue of MagicWidget_C - Previous (StrProperty) Current(IntProperty) for package:  FObjectReader
+[2019.03.27-19.26.12:667][271]LogBlueprint: Warning: [Compiler MagicWidget] [6575.10] Compile of MagicWidget failed. 12 Fatal Issue(s) 0 Warning(s) [in 119 ms] (/Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget)
+[2019.03.27-19.27.59:851][119]BlueprintLog: New page: Compile MagicWidget
+[2019.03.27-19.28.00:907][173]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/MagicWidgetCDDE163B494542D21DD0B49DD7C48A43.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/MagicWidget.uasset'
+[2019.03.27-19.29.53:156][339]BlueprintLog: New page: Compile MagicWidget
+[2019.03.27-19.29.53:824][366]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/MagicWidget4D64176D4295C58D85A2CEAA1338441D.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/MagicWidget.uasset'
+[2019.03.27-19.30.11:476][553]BlueprintLog: New page: Compile MagicWidget
+[2019.03.27-19.30.12:396][604]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/MagicWidget7ED40F7543410661BD57FEBAD27D9B8E.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/MagicWidget.uasset'
+[2019.03.27-19.30.22:356][283]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/MagicWidget86DAD202447841779DF24DABB5998B60.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/MagicWidget.uasset'
+[2019.03.27-19.30.59:881][833]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.03.27-19.31.48:721][655]BlueprintLog: New page: Compile SpellCache
+[2019.03.27-19.31.49:460][684]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/SpellCache45453B39458270FF8661B190FCEABB66.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/SpellCache.uasset'
+[2019.03.27-19.32.31:800][342]LogAssetEditorManager: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2019.03.27-19.32.46:993][344]LogSelectionDetails: Warning: NavigateToFunctionSource:  Found symbols for [UWidget::RemoveFromParent] - File [d:\build\++ue4\sync\engine\source\runtime\umg\private\components\widget.cpp], Line [661], Column [0]
+[2019.03.27-19.32.47:035][344]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2019.03.27-19.32.47:043][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:043][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:044][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:044][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:044][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:044][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:045][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:045][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:045][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:045][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:045][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:046][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:046][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:046][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:046][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:046][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:047][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:047][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:047][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:047][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:047][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:048][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:048][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:048][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:048][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:048][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:049][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:049][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:049][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:049][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:049][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:049][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:050][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:050][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:050][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:050][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:050][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:051][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:051][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:051][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:051][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:051][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:052][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:052][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:052][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:052][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:053][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:053][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:053][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:053][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:053][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:053][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:054][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:054][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:054][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:054][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:055][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:055][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:055][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:055][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:055][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:056][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:056][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:056][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:056][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:056][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:057][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:057][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:057][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:057][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:057][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:058][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:058][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:058][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:058][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:058][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:058][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:059][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:059][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:059][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:059][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:060][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:060][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:060][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:060][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:060][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:061][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:061][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:061][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:061][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:061][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:062][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:062][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:062][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:062][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:063][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:063][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:063][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:063][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:063][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:064][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:064][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:064][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:064][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:064][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:065][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:065][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:065][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:065][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:065][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:066][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:066][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:066][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:066][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:066][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:067][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:067][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:067][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:067][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:067][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:068][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:068][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:068][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:068][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:068][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:069][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:069][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:069][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:069][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:070][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:070][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:070][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:070][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:070][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:071][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:071][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:071][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:071][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:071][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:072][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:072][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:072][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:072][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:073][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:073][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:073][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:073][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:073][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:074][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:074][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:074][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:074][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:074][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:075][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:075][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:075][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:075][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:076][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:076][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:076][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:076][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:076][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:077][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:077][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:077][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:077][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:077][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:078][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:078][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:078][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:078][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:079][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:079][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:079][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:079][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:079][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:079][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:080][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:080][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:080][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:080][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:080][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:081][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:081][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:081][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:081][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:082][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:082][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:082][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:082][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:082][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:083][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:083][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:083][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:083][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:084][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:084][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:090][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:090][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:091][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:091][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:106][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:107][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:107][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:111][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:152][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:169][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:170][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:183][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:268][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:269][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:269][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:269][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:269][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.47:269][344]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-19.32.53:153][515]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.03.27-19.32.53:158][515]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.03.27-19.33.29:267][944]BlueprintLog: New page: Compile MagicWidget
+[2019.03.27-19.33.30:469][990]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/MagicWidget83B160D5428AAEFE28302C877C5DDC38.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/MagicWidget.uasset'
+[2019.03.27-19.34.11:407][635]BlueprintLog: New page: Compile SpellCache
+[2019.03.27-19.34.12:266][702]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/SpellCacheB32615DF44E21BB1E35F4783D13AB2C0.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/SpellCache.uasset'
+[2019.03.27-19.34.31:838][308]BlueprintLog: New page: Compile SpellCache
+[2019.03.27-19.34.32:725][376]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/SpellCache0D5038FC44BC8F486EAC08BFBBECECBF.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/SpellCache.uasset'
+[2019.03.27-19.35.14:544][889]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.03.27-19.35.47:700][628]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.03.27-19.36.20:412][303]BlueprintLog: New page: Compile SpellCache
+[2019.03.27-19.36.20:425][303]LogBlueprint: Error: [Compiler SpellCache] In use pin  Spell List  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.03.27-19.36.20:492][303]LogBlueprint: Warning: [Compiler SpellCache] [7182.92] Compile of SpellCache failed. 1 Fatal Issue(s) 0 Warning(s) [in 79 ms] (/Game/ThirdPersonBP/Blueprints/SpellCache.SpellCache)
+[2019.03.27-19.36.38:547][797]BlueprintLog: New page: Compile SpellCache
+[2019.03.27-19.36.39:186][833]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/SpellCache4680699E4C4439E324EC0A86D0DE37CA.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/SpellCache.uasset'
+[2019.03.27-19.36.46:518][297]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2019.03.27-19.37.02:919][566]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.03.27-19.37.02:923][566]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.03.27-19.37.05:344][715]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/FireSpell.FireSpell
+[2019.03.27-19.37.05:921][716]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:1).
+[2019.03.27-19.37.17:457][542]BlueprintLog: New page: Compile FireSpell
+[2019.03.27-19.37.18:101][562]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/FireSpell7CF103274BCCECE1C087F29995D0B2E0.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/FireSpell.uasset'
+[2019.03.27-19.38.31:395][130]BlueprintLog: New page: Compile SpellCache
+[2019.03.27-19.38.31:454][130]LogBlueprint: Error: [Compiler SpellCache] Could not find a pin for the parameter Comparison Number of SpellGetter on  Spell Getter
+[2019.03.27-19.38.31:454][130]LogBlueprint: Error: [Compiler SpellCache] Pin  New Param  named NewParam doesn't match any parameters of function SpellGetter
+[2019.03.27-19.38.31:783][130]LogBlueprint: Warning: [Compiler SpellCache] [7314.21] Compile of SpellCache failed. 2 Fatal Issue(s) 0 Warning(s) [in 388 ms] (/Game/ThirdPersonBP/Blueprints/SpellCache.SpellCache)
+[2019.03.27-19.38.32:220][156]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/SpellCacheE36786CF47EDA8C829375B9030C1D699.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/SpellCache.uasset'
+[2019.03.27-19.38.59:630][148]BlueprintLog: New page: Compile SpellCache
+[2019.03.27-19.39.10:886][941]BlueprintLog: New page: Compile SpellCache
+[2019.03.27-19.39.11:792][994]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/SpellCache64DA8AA54AB59A7B10C663AE82A0747C.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/SpellCache.uasset'
+[2019.03.27-19.39.53:345][458]BlueprintLog: New page: Compile SpellCache
+[2019.03.27-19.39.53:363][458]LogBlueprint: Error: [Compiler SpellCache] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.03.27-19.39.53:363][458]LogBlueprint: Error: [Compiler SpellCache] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.03.27-19.39.53:432][458]LogBlueprint: Warning: [Compiler SpellCache] [7395.86] Compile of SpellCache failed. 2 Fatal Issue(s) 0 Warning(s) [in 86 ms] (/Game/ThirdPersonBP/Blueprints/SpellCache.SpellCache)
+[2019.03.27-19.39.53:966][493]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/SpellCacheB4450DA940E5EC1FA2D1998A5439C1B4.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/SpellCache.uasset'
+[2019.03.27-19.40.51:755][961]BlueprintLog: New page: Compile SpellCache
+[2019.03.27-19.40.52:430][997]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/SpellCache96778C0C42C62DA4302606961B3796E8.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/SpellCache.uasset'
+[2019.03.27-19.40.54:881][174]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.27-19.40.54:917][174]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-19.40.54:918][174]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-19.40.54:918][174]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 27, 2019, 11:40:54 AM)
+[2019.03.27-19.40.54:919][174]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.03.27-19.40.54:933][174]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014502s)
+[2019.03.27-19.40.54:934][174]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.03.27-19.40.54:935][174]LogPlayLevel: PIE: World Init took: (0.001111s)
+[2019.03.27-19.40.54:935][174]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016369s)
+[2019.03.27-19.40.54:992][174]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.27-19.40.55:007][174]LogInit: FAudioDevice initialized.
+[2019.03.27-19.40.55:046][174]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.27-19.40.55:050][174]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.03.27-15.40.55
+[2019.03.27-19.40.55:052][174]LogWorld: Bringing up level for play took: 0.003941
+[2019.03.27-19.40.55:068][174]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.467
+[2019.03.27-19.40.55:069][174]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-19.40.56:269][246]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.27-19.40.56:269][246]LogBlueprintUserMessages: [KingKittyCharacter_C_0] true
+[2019.03.27-19.40.57:123][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-19.41.05:116][828]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-19.41.07:103][953]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-19.41.07:107][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-19.41.07:161][953]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-19.41.07:161][953]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-19.41.07:236][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-19.41.07:267][954]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.03.27-19.41.43:041][180]BlueprintLog: New page: Compile MagicWidget
+[2019.03.27-19.42.58:428][716]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.03.27-19.43.12:478][708]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/SpellCache2CB57040449F9E0D53D2B19C1955E447.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/SpellCache.uasset'
+[2019.03.27-19.43.40:884][307]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.03.27-19.43.56:918][255]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/SpellCacheActor.SpellCacheActor
+[2019.03.27-19.44.07:942][978]BlueprintLog: New page: Compile SpellCacheActor
+[2019.03.27-19.44.08:665][ 11]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/SpellCacheActorD7BB35944F2477CBCBCD52B1E4764574.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/SpellCacheActor.uasset'
+[2019.03.27-19.44.30:314][174]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.03.27-19.45.44:127][453]BlueprintLog: New page: Compile SpellCacheActor
+[2019.03.27-19.45.44:880][473]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/SpellCacheActor741E752B44C9CAC8817A15B7F6E1A676.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/SpellCacheActor.uasset'
+[2019.03.27-19.45.53:701][  4]BlueprintLog: New page: Compile MagicWidget
+[2019.03.27-19.45.54:831][ 44]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/MagicWidgetB96EEAB34E761F8D66D84C939C1D4EBD.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/MagicWidget.uasset'
+[2019.03.27-19.45.57:089][188]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.27-19.45.57:133][188]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-19.45.57:134][188]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-19.45.57:134][188]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 27, 2019, 11:45:57 AM)
+[2019.03.27-19.45.57:135][188]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.03.27-19.45.57:149][188]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013752s)
+[2019.03.27-19.45.57:150][188]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.03.27-19.45.57:150][188]LogPlayLevel: PIE: World Init took: (0.001081s)
+[2019.03.27-19.45.57:150][188]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015520s)
+[2019.03.27-19.45.57:206][188]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.27-19.45.57:220][188]LogInit: FAudioDevice initialized.
+[2019.03.27-19.45.57:256][188]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.27-19.45.57:260][188]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.03.27-15.45.57
+[2019.03.27-19.45.57:261][188]LogWorld: Bringing up level for play took: 0.003852
+[2019.03.27-19.45.57:277][188]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.679
+[2019.03.27-19.45.57:278][188]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-19.46.30:854][151]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.27-19.46.30:855][151]LogBlueprintUserMessages: [KingKittyCharacter_C_0] true
+[2019.03.27-19.46.31:665][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-19.46.32:468][249]LogBlueprintUserMessages: [SpellCacheActor_C_0] WORKING
+[2019.03.27-19.46.46:647][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-19.46.46:765][313]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-19.46.46:766][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-19.46.46:809][313]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-19.46.46:809][313]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-19.46.46:877][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-19.46.46:903][314]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.03.27-19.46.56:759][994]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.27-19.46.56:790][994]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-19.46.56:791][994]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-19.46.56:792][994]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 27, 2019, 11:46:56 AM)
+[2019.03.27-19.46.56:792][994]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.03.27-19.46.56:808][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015601s)
+[2019.03.27-19.46.56:809][994]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.03.27-19.46.56:809][994]LogPlayLevel: PIE: World Init took: (0.001167s)
+[2019.03.27-19.46.56:809][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017462s)
+[2019.03.27-19.46.56:868][994]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.27-19.46.56:881][994]LogInit: FAudioDevice initialized.
+[2019.03.27-19.46.56:912][994]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.27-19.46.56:914][994]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.03.27-15.46.56
+[2019.03.27-19.46.56:915][994]LogWorld: Bringing up level for play took: 0.002474
+[2019.03.27-19.46.56:930][994]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.333
+[2019.03.27-19.46.56:931][994]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-19.46.57:334][ 15]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.27-19.46.57:335][ 15]LogBlueprintUserMessages: [KingKittyCharacter_C_0] true
+[2019.03.27-19.46.57:970][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-19.46.58:942][119]LogBlueprintUserMessages: [SpellCacheActor_C_0] WORKING
+[2019.03.27-19.47.09:365][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-19.47.09:457][820]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-19.47.09:458][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-19.47.09:511][820]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-19.47.09:512][820]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-19.47.09:584][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-19.47.09:678][821]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2019.03.27-19.47.37:586][558]BlueprintLog: New page: Compile MagicWidget
+[2019.03.27-19.47.38:166][564]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/MagicWidgetA62008864DA1C2B3F530EA8C5C88807E.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/MagicWidget.uasset'
+[2019.03.27-19.47.39:432][643]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.27-19.47.39:463][643]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-19.47.39:464][643]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-19.47.39:464][643]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 27, 2019, 11:47:39 AM)
+[2019.03.27-19.47.39:464][643]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.03.27-19.47.39:477][643]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012779s)
+[2019.03.27-19.47.39:478][643]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.03.27-19.47.39:479][643]LogPlayLevel: PIE: World Init took: (0.000962s)
+[2019.03.27-19.47.39:479][643]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014493s)
+[2019.03.27-19.47.39:537][643]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.27-19.47.39:550][643]LogInit: FAudioDevice initialized.
+[2019.03.27-19.47.39:580][643]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.27-19.47.39:583][643]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.03.27-15.47.39
+[2019.03.27-19.47.39:585][643]LogWorld: Bringing up level for play took: 0.003839
+[2019.03.27-19.47.39:600][643]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.003
+[2019.03.27-19.47.39:601][643]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-19.47.39:947][656]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.27-19.47.39:947][656]LogBlueprintUserMessages: [KingKittyCharacter_C_0] true
+[2019.03.27-19.47.40:761][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-19.47.41:540][750]LogBlueprintUserMessages: [SpellCacheActor_C_0] WORKING
+[2019.03.27-19.47.41:540][750]LogBlueprintUserMessages: [MagicWidget_C_0] What
+[2019.03.27-19.47.49:201][178]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-19.47.49:319][185]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-19.47.49:320][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-19.47.49:362][185]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-19.47.49:363][185]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-19.47.49:426][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-19.47.49:457][186]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2019.03.27-19.48.06:398][327]BlueprintLog: New page: Compile KingKittyCharacter
+[2019.03.27-19.48.07:142][340]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/KingKittyCharacter0C531C134BA47B64CD420DA2393B1B25.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/KingKittyCharacter.uasset'
+[2019.03.27-19.48.07:993][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-19.48.08:080][404]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.27-19.48.08:138][404]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-19.48.08:140][404]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-19.48.08:140][404]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 27, 2019, 11:48:08 AM)
+[2019.03.27-19.48.08:140][404]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.03.27-19.48.08:157][404]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016433s)
+[2019.03.27-19.48.08:158][404]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.03.27-19.48.08:158][404]LogPlayLevel: PIE: World Init took: (0.001073s)
+[2019.03.27-19.48.08:158][404]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018361s)
+[2019.03.27-19.48.08:217][404]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.27-19.48.08:230][404]LogInit: FAudioDevice initialized.
+[2019.03.27-19.48.08:265][404]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.27-19.48.08:269][404]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.03.27-15.48.08
+[2019.03.27-19.48.08:271][404]LogWorld: Bringing up level for play took: 0.004012
+[2019.03.27-19.48.08:287][404]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.311
+[2019.03.27-19.48.08:288][404]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-19.48.08:614][415]LogBlueprintUserMessages: [KingKittyCharacter_C_0] WHY WILL YOU NOT WORK
+[2019.03.27-19.48.08:615][415]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.27-19.48.08:616][415]LogBlueprintUserMessages: [KingKittyCharacter_C_0] true
+[2019.03.27-19.48.09:697][485]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-19.48.09:793][490]LogBlueprintUserMessages: [SpellCacheActor_C_0] WORKING
+[2019.03.27-19.48.09:793][490]LogBlueprintUserMessages: [MagicWidget_C_0] What
+[2019.03.27-19.48.13:017][713]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-19.48.13:018][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-19.48.13:076][713]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-19.48.13:077][713]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-19.48.13:143][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-19.48.13:231][714]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2019.03.27-19.48.14:272][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-19.49.22:761][281]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/ThirdPersonExampleMap_Auto62965154347C75F7E4F49C0B732EEBD78.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap'
+[2019.03.27-19.49.22:774][281]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.372
+[2019.03.27-19.49.22:775][281]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.372
+[2019.03.27-19.49.22:778][281]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/MagicWidget] ([1] browsable assets)...
+[2019.03.27-19.49.22:779][281]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/MagicWidget]
+[2019.03.27-19.49.22:849][281]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/MagicWidget_Auto63ABDA5AB431B4BD89A8F3BB9FD5607A9.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/MagicWidget_Auto6.uasset'
+[2019.03.27-19.49.22:855][281]LogFileHelpers: Auto-saving content packages took 0.078
+[2019.03.27-19.50.16:066][809]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-19.50.21:750][189]BlueprintLog: New page: Compile MagicWidget
+[2019.03.27-19.50.22:639][218]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/MagicWidgetD65B966C4A2D8925A964448900B296E0.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/MagicWidget.uasset'
+[2019.03.27-19.50.28:494][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-19.50.59:364][687]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/MagicWidgetA09239DD4188EE9C33786EA6A17C286D.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/MagicWidget.uasset'
+[2019.03.27-19.51.00:108][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-19.51.21:005][202]BlueprintLog: New page: Compile MagicWidget
+[2019.03.27-19.51.21:816][223]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/MagicWidget91F77AEC4BB5841EEAC7EC9A91E92187.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/MagicWidget.uasset'
+[2019.03.27-19.51.23:568][324]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-19.51.34:685][ 45]BlueprintLog: New page: Compile SpellCacheActor
+[2019.03.27-19.51.35:519][ 77]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/SpellCacheActor35DB2F7240F6854E1C987782202535AA.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/SpellCacheActor.uasset'
+[2019.03.27-19.51.40:569][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-19.51.52:454][299]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.27-19.51.52:486][299]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-19.51.52:487][299]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-19.51.52:488][299]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 27, 2019, 11:51:52 AM)
+[2019.03.27-19.51.52:488][299]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.03.27-19.51.52:502][299]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013469s)
+[2019.03.27-19.51.52:502][299]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.03.27-19.51.52:503][299]LogPlayLevel: PIE: World Init took: (0.000892s)
+[2019.03.27-19.51.52:503][299]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015071s)
+[2019.03.27-19.51.52:561][299]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.27-19.51.52:574][299]LogInit: FAudioDevice initialized.
+[2019.03.27-19.51.52:606][299]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.27-19.51.52:610][299]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.03.27-15.51.52
+[2019.03.27-19.51.52:611][299]LogWorld: Bringing up level for play took: 0.003816
+[2019.03.27-19.51.52:626][299]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.03
+[2019.03.27-19.51.52:627][299]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-19.51.52:982][315]LogBlueprintUserMessages: [KingKittyCharacter_C_0] WHY WILL YOU NOT WORK
+[2019.03.27-19.51.52:983][315]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.27-19.51.52:983][315]LogBlueprintUserMessages: [KingKittyCharacter_C_0] true
+[2019.03.27-19.51.54:287][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-19.51.57:272][588]LogBlueprintUserMessages: [SpellCacheActor_C_0] WORKING
+[2019.03.27-19.51.57:272][588]LogBlueprintUserMessages: [MagicWidget_C_0] What
+[2019.03.27-19.52.02:499][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-19.52.02:624][926]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-19.52.02:626][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-19.52.02:689][926]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-19.52.02:689][926]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-19.52.02:758][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-19.52.02:864][927]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2019.03.27-19.52.19:110][ 95]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/KingKittyCharacter427F453A4CFF9515AFE3A3A387A3BBFF.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/KingKittyCharacter.uasset'
+[2019.03.27-19.52.57:797][461]BlueprintLog: New page: Compile MagicWidget
+[2019.03.27-19.52.59:895][574]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/MagicWidget8850559C41E8D725B0660F8FAA863DBF.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/MagicWidget.uasset'
+[2019.03.27-19.53.03:423][815]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.27-19.53.03:455][815]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-19.53.03:456][815]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-19.53.03:456][815]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 27, 2019, 11:53:03 AM)
+[2019.03.27-19.53.03:456][815]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.03.27-19.53.03:470][815]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013085s)
+[2019.03.27-19.53.03:470][815]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.03.27-19.53.03:471][815]LogPlayLevel: PIE: World Init took: (0.001101s)
+[2019.03.27-19.53.03:471][815]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014866s)
+[2019.03.27-19.53.03:530][815]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.27-19.53.03:544][815]LogInit: FAudioDevice initialized.
+[2019.03.27-19.53.03:575][815]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.27-19.53.03:577][815]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.03.27-15.53.03
+[2019.03.27-19.53.03:578][815]LogWorld: Bringing up level for play took: 0.002001
+[2019.03.27-19.53.03:593][815]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.997
+[2019.03.27-19.53.03:594][815]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-19.53.03:962][832]LogBlueprintUserMessages: [KingKittyCharacter_C_0] WHY WILL YOU NOT WORK
+[2019.03.27-19.53.03:964][832]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.27-19.53.03:964][832]LogBlueprintUserMessages: [KingKittyCharacter_C_0] true
+[2019.03.27-19.53.04:956][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-19.53.05:078][905]LogBlueprintUserMessages: [SpellCacheActor_C_0] WORKING
+[2019.03.27-19.53.05:078][905]LogBlueprintUserMessages: [MagicWidget_C_0] What
+[2019.03.27-19.53.05:483][931]LogBlueprintUserMessages: [KingKittyCharacter_C_0] WHY WILL YOU NOT WORK
+[2019.03.27-19.53.05:484][931]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.27-19.53.05:485][931]LogBlueprintUserMessages: [KingKittyCharacter_C_0] true
+[2019.03.27-19.53.06:206][979]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-19.53.06:354][989]LogBlueprintUserMessages: [SpellCacheActor_C_1] WORKING
+[2019.03.27-19.53.06:354][989]LogBlueprintUserMessages: [MagicWidget_C_1] What
+[2019.03.27-19.53.06:882][ 25]LogBlueprintUserMessages: [KingKittyCharacter_C_0] WHY WILL YOU NOT WORK
+[2019.03.27-19.53.06:883][ 25]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.27-19.53.06:883][ 25]LogBlueprintUserMessages: [KingKittyCharacter_C_0] true
+[2019.03.27-19.53.07:613][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-19.53.07:752][ 80]LogBlueprintUserMessages: [SpellCacheActor_C_2] WORKING
+[2019.03.27-19.53.07:752][ 80]LogBlueprintUserMessages: [MagicWidget_C_2] What
+[2019.03.27-19.53.08:141][104]LogBlueprintUserMessages: [KingKittyCharacter_C_0] WHY WILL YOU NOT WORK
+[2019.03.27-19.53.08:142][104]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.27-19.53.08:142][104]LogBlueprintUserMessages: [KingKittyCharacter_C_0] true
+[2019.03.27-19.53.08:769][145]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-19.53.08:873][151]LogBlueprintUserMessages: [SpellCacheActor_C_3] WORKING
+[2019.03.27-19.53.08:873][151]LogBlueprintUserMessages: [MagicWidget_C_3] What
+[2019.03.27-19.53.09:455][191]LogBlueprintUserMessages: [KingKittyCharacter_C_0] WHY WILL YOU NOT WORK
+[2019.03.27-19.53.09:456][191]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.27-19.53.09:456][191]LogBlueprintUserMessages: [KingKittyCharacter_C_0] true
+[2019.03.27-19.53.09:897][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-19.53.10:056][230]LogBlueprintUserMessages: [SpellCacheActor_C_4] WORKING
+[2019.03.27-19.53.10:056][230]LogBlueprintUserMessages: [MagicWidget_C_4] What
+[2019.03.27-19.53.55:423][912]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-19.53.55:425][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-19.53.55:466][912]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-19.53.55:467][912]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-19.53.55:537][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-19.53.55:571][913]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2019.03.27-19.55.28:681][782]BlueprintLog: New page: Compile SpellCacheActor
+[2019.03.27-19.55.29:460][809]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/SpellCacheActor7FE4A99D4ABCA13E335DDCA27CA9028C.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/SpellCacheActor.uasset'
+[2019.03.27-19.57.42:924][553]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.03.27-19.57.45:625][774]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.03.27-19.57.45:628][774]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.03.27-19.58.12:130][225]BlueprintLog: New page: Compile SpellCacheActor
+[2019.03.27-19.58.12:162][225]LogBlueprint: Error: [Compiler SpellCacheActor] In use pin  Spell List  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.03.27-19.58.12:484][225]LogBlueprint: Warning: [Compiler SpellCacheActor] [8494.91] Compile of SpellCacheActor failed. 1 Fatal Issue(s) 0 Warning(s) [in 352 ms] (/Game/ThirdPersonBP/Blueprints/SpellCacheActor.SpellCacheActor)
+[2019.03.27-19.58.12:865][251]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/SpellCacheActor92C7C0234998809DF272FB96EDBE8864.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/SpellCacheActor.uasset'
+[2019.03.27-19.58.26:149][355]BlueprintLog: New page: Compile SpellCacheActor
+[2019.03.27-19.58.27:070][396]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/SpellCacheActor3D0FD23B4611EDE572838890B5F42B49.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/SpellCacheActor.uasset'
+[2019.03.27-19.58.37:554][295]BlueprintLog: New page: Compile SpellCacheActor
+[2019.03.27-19.58.38:291][324]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/SpellCacheActor1530C2E347BFEFEF90D8AB913D4E5C76.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/SpellCacheActor.uasset'
+[2019.03.27-19.59.05:586][753]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.03.27-19.59.09:105][ 59]BlueprintLog: New page: Compile SpellCacheActor
+[2019.03.27-19.59.10:496][155]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/SpellCacheActor82F5C8D34E78B153E86F7493C0FC524E.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/SpellCacheActor.uasset'
+[2019.03.27-19.59.19:815][ 50]BlueprintLog: New page: Compile FireSpell
+[2019.03.27-19.59.20:547][ 85]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/FireSpell827167BE48F226E47148A5A70904A779.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/FireSpell.uasset'
+[2019.03.27-19.59.22:840][296]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/SpellCache1A0030874135803E8B8DC2BD8A19B24D.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/SpellCache.uasset'
+[2019.03.27-19.59.26:936][602]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/ThirdPersonExampleMapD231873F4BB00FF09310CEB89EAA07E4.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.03.27-20.00.24:957][829]BlueprintLog: New page: Compile MagicWidget
+[2019.03.27-20.00.25:987][849]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/MagicWidget2494DDDF4F823F94D121B49F74150E85.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/MagicWidget.uasset'
+[2019.03.27-20.00.27:979][946]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.27-20.00.28:009][946]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-20.00.28:010][946]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-20.00.28:010][946]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 27, 2019, 12:00:28 PM)
+[2019.03.27-20.00.28:010][946]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.03.27-20.00.28:024][946]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012916s)
+[2019.03.27-20.00.28:024][946]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.03.27-20.00.28:025][946]LogPlayLevel: PIE: World Init took: (0.001081s)
+[2019.03.27-20.00.28:025][946]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014729s)
+[2019.03.27-20.00.28:087][946]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.27-20.00.28:102][946]LogInit: FAudioDevice initialized.
+[2019.03.27-20.00.28:135][946]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.27-20.00.28:139][946]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.03.27-16.00.28
+[2019.03.27-20.00.28:141][946]LogWorld: Bringing up level for play took: 0.003978
+[2019.03.27-20.00.28:157][946]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.449
+[2019.03.27-20.00.28:158][946]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-20.00.28:678][968]LogBlueprintUserMessages: [KingKittyCharacter_C_0] WHY WILL YOU NOT WORK
+[2019.03.27-20.00.28:680][968]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.27-20.00.28:681][968]LogBlueprintUserMessages: [KingKittyCharacter_C_0] true
+[2019.03.27-20.00.29:720][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.00.31:081][ 74]LogBlueprintUserMessages: [SpellCacheActor_C_0] WORKING
+[2019.03.27-20.00.31:082][ 74]LogBlueprintUserMessages: [SpellCacheActor_C_0] Somethings wrong
+[2019.03.27-20.00.31:082][ 74]LogBlueprintUserMessages: [MagicWidget_C_0] What
+[2019.03.27-20.00.33:022][157]LogBlueprintUserMessages: [KingKittyCharacter_C_0] WHY WILL YOU NOT WORK
+[2019.03.27-20.00.33:023][157]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.27-20.00.33:024][157]LogBlueprintUserMessages: [KingKittyCharacter_C_0] true
+[2019.03.27-20.00.34:310][221]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.00.34:966][250]LogBlueprintUserMessages: [SpellCacheActor_C_1] WORKING
+[2019.03.27-20.00.34:967][250]LogBlueprintUserMessages: [SpellCacheActor_C_1] HAVE THIS SPELL
+[2019.03.27-20.00.34:967][250]LogBlueprintUserMessages: [FireSpell_C_0] FIIIIIIRREEEEE
+[2019.03.27-20.00.34:967][250]LogBlueprintUserMessages: [MagicWidget_C_1] What
+[2019.03.27-20.00.44:796][737]LogBlueprintUserMessages: [KingKittyCharacter_C_0] WHY WILL YOU NOT WORK
+[2019.03.27-20.00.44:797][737]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.27-20.00.44:798][737]LogBlueprintUserMessages: [KingKittyCharacter_C_0] true
+[2019.03.27-20.00.46:965][833]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.00.48:199][884]LogBlueprintUserMessages: [SpellCacheActor_C_2] WORKING
+[2019.03.27-20.00.48:200][884]LogBlueprintUserMessages: [SpellCacheActor_C_2] HAVE THIS SPELL
+[2019.03.27-20.00.48:200][884]LogBlueprintUserMessages: [FireSpell_C_1] FIIIIIIRREEEEE
+[2019.03.27-20.00.48:200][884]LogBlueprintUserMessages: [MagicWidget_C_2] What
+[2019.03.27-20.00.53:325][112]LogBlueprintUserMessages: [KingKittyCharacter_C_0] WHY WILL YOU NOT WORK
+[2019.03.27-20.00.53:326][112]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.27-20.00.53:326][112]LogBlueprintUserMessages: [KingKittyCharacter_C_0] true
+[2019.03.27-20.00.53:851][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-20.00.56:112][232]LogBlueprintUserMessages: [SpellCacheActor_C_3] WORKING
+[2019.03.27-20.00.56:113][232]LogBlueprintUserMessages: [SpellCacheActor_C_3] Somethings wrong
+[2019.03.27-20.00.56:113][232]LogBlueprintUserMessages: [MagicWidget_C_3] What
+[2019.03.27-20.01.00:466][422]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-20.01.00:467][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-20.01.00:509][422]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-20.01.00:510][422]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-20.01.00:579][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-20.01.00:618][423]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2019.03.27-20.01.46:136][704]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/ThirdPersonExampleMapC8693DA3460C7C13796443AB6DA1ADD1.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.03.27-20.01.46:192][704]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.400
+[2019.03.27-20.01.46:212][704]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/SpellA07595414F20127998AF5286BDDC3421.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/Spell.uasset'
