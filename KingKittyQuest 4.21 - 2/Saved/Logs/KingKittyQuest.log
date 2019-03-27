@@ -1,0 +1,1380 @@
+﻿Log file open, 03/27/19 13:36:40
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: KingKittyQuest
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.642571
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogStreaming: Display: Took  0.154s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz, GPU: NVIDIA Quadro K4200
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=Smith-James -epicuserid=c6fa227987bd40869827970d8596a1d9 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.03.27-17.36.40:721][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.03.27-17.36.40:721][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.03.27-17.36.40:721][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/Config/Windows/Engine.ini]
+[2019.03.27-17.36.40:721][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.03.27-17.36.40:721][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/Config/Windows/Engine.ini]
+[2019.03.27-17.36.40:722][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/Config/Windows/Engine.ini]
+[2019.03.27-17.36.40:722][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.03.27-17.36.40:722][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.03.27-17.36.40:722][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.03.27-17.36.40:722][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.03.27-17.36.40:722][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.03.27-17.36.40:722][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.03.27-17.36.40:722][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.03.27-17.36.40:722][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.03.27-17.36.40:722][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.03.27-17.36.40:722][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.03.27-17.36.40:722][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.03.27-17.36.40:722][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.03.27-17.36.40:722][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.03.27-17.36.40:722][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/Config/Windows/Engine.ini]
+[2019.03.27-17.36.40:722][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.03.27-17.36.40:722][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.03.27-17.36.40:722][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.03.27-17.36.40:722][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.03.27-17.36.40:722][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.03.27-17.36.40:722][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.03.27-17.36.40:722][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.03.27-17.36.40:722][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.03.27-17.36.40:722][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.03.27-17.36.40:722][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.03.27-17.36.40:722][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.03.27-17.36.40:722][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.03.27-17.36.40:722][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.03.27-17.36.40:722][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.03.27-17.36.40:722][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/Config/Windows/Engine.ini]
+[2019.03.27-17.36.40:722][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/Config/Windows/Engine.ini]
+[2019.03.27-17.36.40:752][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/Config/Windows/Scalability.ini]
+[2019.03.27-17.36.40:752][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.27-17.36.40:752][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.27-17.36.40:752][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/Config/Windows/Scalability.ini]
+[2019.03.27-17.36.40:752][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.27-17.36.40:752][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/Config/Windows/Scalability.ini]
+[2019.03.27-17.36.40:752][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.27-17.36.40:752][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.27-17.36.40:752][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.27-17.36.40:752][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.27-17.36.40:753][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.27-17.36.40:753][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.27-17.36.40:753][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.27-17.36.40:753][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.27-17.36.40:753][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.27-17.36.40:753][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.27-17.36.40:753][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.27-17.36.40:753][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.27-17.36.40:753][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.27-17.36.40:753][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.27-17.36.40:753][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.27-17.36.40:753][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.27-17.36.40:753][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.27-17.36.40:753][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.27-17.36.40:753][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/Config/Windows/Scalability.ini]
+[2019.03.27-17.36.40:753][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.27-17.36.40:753][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.27-17.36.40:753][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.27-17.36.40:753][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.27-17.36.40:753][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.27-17.36.40:753][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.27-17.36.40:753][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.27-17.36.40:753][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.27-17.36.40:753][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.27-17.36.40:753][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.27-17.36.40:753][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.27-17.36.40:753][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.27-17.36.40:753][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.27-17.36.40:753][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.27-17.36.40:753][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.27-17.36.40:753][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.27-17.36.40:754][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.27-17.36.40:754][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.27-17.36.40:754][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.27-17.36.40:754][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.27-17.36.40:754][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.27-17.36.40:754][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.27-17.36.40:754][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.27-17.36.40:754][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.27-17.36.40:754][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.27-17.36.40:754][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.27-17.36.40:754][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.27-17.36.40:754][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.27-17.36.40:754][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.27-17.36.40:754][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.27-17.36.40:754][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/Config/Windows/Scalability.ini]
+[2019.03.27-17.36.40:754][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.27-17.36.40:754][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.27-17.36.40:754][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.27-17.36.40:754][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.27-17.36.40:754][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.27-17.36.40:754][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.27-17.36.40:754][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.27-17.36.40:754][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.27-17.36.40:754][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/Config/Windows/Scalability.ini]
+[2019.03.27-17.36.40:754][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.27-17.36.40:754][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.27-17.36.40:754][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.27-17.36.40:754][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.27-17.36.40:754][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.27-17.36.40:754][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.27-17.36.40:755][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.27-17.36.40:755][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.27-17.36.40:755][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.27-17.36.40:755][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.27-17.36.40:755][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.27-17.36.40:755][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.27-17.36.40:755][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.27-17.36.40:755][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/Config/Windows/Scalability.ini]
+[2019.03.27-17.36.40:755][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.27-17.36.40:755][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.27-17.36.40:755][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.27-17.36.40:755][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.27-17.36.40:787][  0]LogHAL: Display: Platform has ~ 32 GB [34262499328 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.27-17.36.40:787][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.03.27-17.36.40:787][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.27-17.36.40:787][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/Config/Windows/Scalability.ini]
+[2019.03.27-17.36.40:787][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.27-17.36.40:787][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.27-17.36.40:787][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/Config/Windows/Scalability.ini]
+[2019.03.27-17.36.40:787][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.27-17.36.40:787][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/Config/Windows/Scalability.ini]
+[2019.03.27-17.36.40:787][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.27-17.36.40:787][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.27-17.36.40:787][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.27-17.36.40:787][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.27-17.36.40:787][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.27-17.36.40:787][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/Config/Windows/Scalability.ini]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/Config/Windows/Scalability.ini]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.27-17.36.40:788][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.27-17.36.40:789][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.27-17.36.40:789][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.27-17.36.40:789][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.27-17.36.40:789][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/Config/Windows/Scalability.ini]
+[2019.03.27-17.36.40:789][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.27-17.36.40:789][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.27-17.36.40:789][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.27-17.36.40:789][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.27-17.36.40:789][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.27-17.36.40:789][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.27-17.36.40:789][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.27-17.36.40:789][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.27-17.36.40:789][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.27-17.36.40:789][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.27-17.36.40:789][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.27-17.36.40:789][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.27-17.36.40:789][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.27-17.36.40:789][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/Config/Windows/Scalability.ini]
+[2019.03.27-17.36.40:789][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.27-17.36.40:789][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.27-17.36.40:789][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.03.27-17.36.40:789][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.03.27-17.36.40:789][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/Config/Windows/Engine.ini]
+[2019.03.27-17.36.40:789][  0]LogInit: Computer: ATC-172-18
+[2019.03.27-17.36.40:790][  0]LogInit: User: smithja
+[2019.03.27-17.36.40:790][  0]LogInit: CPU Page size=4096, Cores=8
+[2019.03.27-17.36.40:790][  0]LogInit: High frequency timer resolution =2.338337 MHz
+[2019.03.27-17.36.40:790][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.03.27-17.36.40:790][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.27-17.36.40:790][  0]LogMemory: Process Physical Memory: 105.82 MB used, 105.82 MB peak
+[2019.03.27-17.36.40:790][  0]LogMemory: Process Virtual Memory: 91.51 MB used, 91.51 MB peak
+[2019.03.27-17.36.40:790][  0]LogMemory: Physical Memory: 12160.41 MB used,  20514.86 MB free, 32675.27 MB total
+[2019.03.27-17.36.40:790][  0]LogMemory: Virtual Memory: 585.13 MB used,  134217144.00 MB free, 134217728.00 MB total
+[2019.03.27-17.36.40:852][  0]LogInit: Using OS detected language (en-US).
+[2019.03.27-17.36.40:852][  0]LogInit: Using OS detected locale (en-US).
+[2019.03.27-17.36.40:855][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.03.27-17.36.41:446][  0]LogStreaming: Display: Took  0.594s to InitEngineTextLocalization.
+[2019.03.27-17.36.41:447][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.27-17.36.41:548][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.27-17.36.41:548][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.27-17.36.41:925][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.27-17.36.41:925][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.27-17.36.42:017][  0]LogD3D11RHI:    0. 'NVIDIA Quadro K4200' (Feature Level 11_0)
+[2019.03.27-17.36.42:017][  0]LogD3D11RHI:       4052/0/16337 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.03.27-17.36.42:020][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.27-17.36.42:020][  0]LogD3D11RHI:       0/0/16337 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.27-17.36.42:020][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.27-17.36.42:032][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.27-17.36.42:032][  0]LogD3D11RHI:     GPU DeviceId: 0x11b4 (for the marketing name, search the web for "GPU Device Id")
+[2019.03.27-17.36.42:032][  0]LogWindows: EnumDisplayDevices:
+[2019.03.27-17.36.42:032][  0]LogWindows:    0. 'NVIDIA Quadro K4200' (P:1 D:1)
+[2019.03.27-17.36.42:032][  0]LogWindows:    1. 'NVIDIA Quadro K4200' (P:0 D:1)
+[2019.03.27-17.36.42:032][  0]LogWindows:    2. 'NVIDIA Quadro K4200' (P:0 D:0)
+[2019.03.27-17.36.42:032][  0]LogWindows:    3. 'NVIDIA Quadro K4200' (P:0 D:0)
+[2019.03.27-17.36.42:033][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.03.27-17.36.42:033][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro K4200
+[2019.03.27-17.36.42:033][  0]LogD3D11RHI:   Driver Version: 397.93 (internal:24.21.13.9793, unified:397.93)
+[2019.03.27-17.36.42:033][  0]LogD3D11RHI:      Driver Date: 5-22-2018
+[2019.03.27-17.36.42:033][  0]LogRHI: Texture pool is 2836 MB (70% of 4052 MB)
+[2019.03.27-17.36.42:088][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.27-17.36.42:118][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.03.27-17.36.42:511][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.27-17.36.42:530][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.27-17.36.42:551][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.27-17.36.42:572][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.27-17.36.42:601][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.27-17.36.42:626][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.27-17.36.42:646][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.27-17.36.42:672][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.27-17.36.42:682][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.27-17.36.42:819][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-17.36.42:819][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-17.36.42:819][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-17.36.42:819][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-17.36.42:819][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-17.36.42:819][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-17.36.42:819][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-17.36.42:819][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-17.36.42:819][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-17.36.42:819][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-17.36.42:819][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-17.36.42:819][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-17.36.42:819][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-17.36.42:819][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-17.36.42:819][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-17.36.42:819][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-17.36.42:819][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-17.36.42:819][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.27-17.36.42:821][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.27-17.36.42:903][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.27-17.36.42:903][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.27-17.36.42:948][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.27-17.36.42:948][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.27-17.36.42:965][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.27-17.36.42:992][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.27-17.36.43:009][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.27-17.36.43:026][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.27-17.36.43:088][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.27-17.36.43:088][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.27-17.36.43:088][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.27-17.36.43:174][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Intermediate/Shaders/WorkingDirectory/26240/).
+[2019.03.27-17.36.43:174][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/smithja/AppData/Local/Temp/UnrealShaderWorkingDir/AA212AC1412ED9EEAA410C815D2CA93C/'.
+[2019.03.27-17.36.43:178][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.27-17.36.43:178][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.27-17.36.43:178][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.27-17.36.44:073][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.27-17.36.44:147][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/smithja/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.27-17.36.44:147][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/smithja/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.03.27-17.36.44:147][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.27-17.36.44:147][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.27-17.36.44:148][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.27-17.36.44:148][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.27-17.36.44:191][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.27-17.36.44:197][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.03.27-17.36.44:210][  0]LogDerivedDataCache: Using Local data cache path C:/Users/smithja/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.27-17.36.44:210][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.27-17.36.44:210][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.27-17.36.44:272][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.27-17.36.44:276][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.27-17.36.44:277][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.27-17.36.44:440][  0]LogAssetRegistry: FAssetRegistry took 0.0386 seconds to start up
+[2019.03.27-17.36.44:979][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.27-17.36.45:103][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.27-17.36.45:110][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.27-17.36.45:110][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.27-17.36.45:110][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.27-17.36.45:110][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.27-17.36.45:302][  0]LogNetVersion: KingKittyQuest 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2396895903)
+[2019.03.27-17.36.46:266][  0]LogPackageLocalizationCache: Processed 14 localized package path(s) for 2 prioritized culture(s) in 0.269418 seconds
+[2019.03.27-17.36.46:273][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.03.27-17.36.46:274][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.03.27-17.36.46:274][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.27-17.36.47:757][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.27-17.36.47:771][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.27-17.36.48:849][  0]SourceControl: Source control is disabled
+[2019.03.27-17.36.48:849][  0]SourceControl: Source control is disabled
+[2019.03.27-17.36.48:851][  0]SourceControl: Source control is disabled
+[2019.03.27-17.36.48:852][  0]SourceControl: Source control is disabled
+[2019.03.27-17.36.49:037][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.27-17.36.49:101][  0]LogOcInput: OculusInput pre-init called
+[2019.03.27-17.36.51:229][  0]LogEngine: Initializing Engine...
+[2019.03.27-17.36.51:230][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.27-17.36.51:231][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.27-17.36.51:231][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.27-17.36.51:231][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.27-17.36.51:231][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.27-17.36.51:577][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.27-17.36.51:607][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.27-17.36.51:617][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.27-17.36.51:668][  0]LogInit: FAudioDevice initialized.
+[2019.03.27-17.36.51:669][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.27-17.36.51:777][  0]LogDerivedDataCache: Saved boot cache 0.11s 71MB C:/Users/smithja/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.27-17.36.51:788][  0]LogInit: Texture streaming: Enabled
+[2019.03.27-17.36.51:815][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.27-17.36.51:838][  0]LogInit: Transaction tracking system initialized
+[2019.03.27-17.36.51:892][  0]BlueprintLog: New page: Editor Load
+[2019.03.27-17.36.52:022][  0]LocalizationService: Localization service is disabled
+[2019.03.27-17.36.52:797][  0]LogFileCache: Scanning file cache for directory 'C:/Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/' took 0.02s
+[2019.03.27-17.36.52:797][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.27-17.36.52:797][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.27-17.36.52:797][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.27-17.36.52:797][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.27-17.36.52:797][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.27-17.36.52:797][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.27-17.36.52:797][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.27-17.36.54:966][  0]SourceControl: Source control is disabled
+[2019.03.27-17.36.54:967][  0]Cmd: MAP LOAD FILE="../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.27-17.36.54:967][  0]LightingResults: New page: Lighting Build
+[2019.03.27-17.36.54:971][  0]MapCheck: New page: Map Check
+[2019.03.27-17.36.54:971][  0]LightingResults: New page: Lighting Build
+[2019.03.27-17.36.55:409][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.03.27-17.36.55:455][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.27-17.36.55:507][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.27-17.36.55:507][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.205ms to complete.
+[2019.03.27-17.36.55:507][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.541
+[2019.03.27-17.36.55:656][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-17.36.55:670][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-17.36.55:680][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-17.36.55:691][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-17.36.55:701][  0]LogCollectionManager: Loaded 0 collections in 0.003288 seconds
+[2019.03.27-17.36.55:720][  0]LogFileCache: Scanning file cache for directory 'C:/Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/Collections/' took 0.01s
+[2019.03.27-17.36.55:720][  0]LogFileCache: Scanning file cache for directory 'C:/Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/Developers/smithja/Collections/' took 0.00s
+[2019.03.27-17.36.55:720][  0]LogFileCache: Scanning file cache for directory 'C:/Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/Collections/' took 0.00s
+[2019.03.27-17.36.55:720][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.03.27-17.36.55:733][  0]LogContentBrowser: Native class hierarchy populated in 0.0123 seconds. Added 2709 classes and 653 folders.
+[2019.03.27-17.36.55:745][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.03.27-17.36.55:748][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.27-17.36.55:750][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.27-17.36.55:751][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.27-17.36.55:752][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.27-17.36.55:753][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.27-17.36.55:755][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.27-17.36.55:756][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.27-17.36.55:757][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.27-17.36.55:758][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.27-17.36.55:759][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.27-17.36.55:760][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.27-17.36.55:762][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.27-17.36.55:763][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.27-17.36.55:764][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.27-17.36.55:765][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.27-17.36.55:766][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.27-17.36.55:768][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.27-17.36.55:769][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.27-17.36.55:770][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.27-17.36.55:771][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.27-17.36.55:772][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.27-17.36.55:774][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.27-17.36.55:775][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.27-17.36.55:776][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.27-17.36.55:778][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.27-17.36.55:779][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.27-17.36.55:780][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.27-17.36.55:781][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.27-17.36.55:875][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.03.27-17.36.55:883][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.03.27-17.36.55:903][  0]LogSlate: Took 0.000323 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.27-17.36.55:908][  0]LogSlate: Took 0.000392 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.27-17.36.55:921][  0]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.27-17.36.56:085][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.03.27-17.36.56:239][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.27-17.36.56:261][  0]LogSlate: Window 'Tutorials' being destroyed
+[2019.03.27-17.36.56:302][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.03.27-17.36.56:302][  0]LogLoad: (Engine Initialization) Total time: 18.78 seconds
+[2019.03.27-17.36.56:302][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.27-17.36.56:314][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.27-17.36.56:411][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.27-17.36.56:439][  0]LogSlate: Took 0.000296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.27-17.36.56:569][  2]LogAssetRegistry: Asset discovery search completed in 12.1513 seconds
+[2019.03.27-17.36.56:571][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.03.27-17.36.56:572][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000056 seconds (updated 0 objects)
+[2019.03.27-17.37.18:535][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-17.37.24:832][990]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.03.27-17.37.27:841][206]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-17.37.30:014][387]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.27-17.37.47:183][387]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.03.27-17.37.55:814][ 51]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/SpellCache.SpellCache
+[2019.03.27-17.37.56:494][ 51]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 117 classes and 0 folders.
+[2019.03.27-17.37.58:189][ 51]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.27-17.38.01:016][215]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.27-17.38.14:104][  9]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.03.27-17.39.41:125][ 55]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/KingKittyCharacter.KingKittyCharacter
+[2019.03.27-17.39.50:782][340]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.03.27-17.39.50:931][342]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.KingKittyQuest
+[2019.03.27-17.39.50:931][342]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.03.27-17.39.50:931][342]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.21
+[2019.03.27-17.39.50:931][342]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.03.27-17.39.50:931][342]LogTemp: BranchPath = ATC-172-18/C/Program Files/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = ATC-172-18/C/Program Files/Epic Games/UE_4.21/Engine/Binaries
+[2019.03.27-17.39.50:976][343]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\smithja\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.03.27-17.42.32:551][541]LogSlate: Window 'Project Settings' being destroyed
+[2019.03.27-17.42.32:555][541]LogSlate: Window 'Project Settings' being destroyed
+[2019.03.27-17.43.42:958][520]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget
+[2019.03.27-17.44.00:395][ 40]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_0.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.00:395][ 40]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_1.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.00:395][ 40]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_2.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.00:395][ 40]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_3.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.00:395][ 40]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_4.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.00:395][ 40]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_5.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.00:396][ 40]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0.CanvasPanelSlot_3) from referencer (Button /Engine/UMG/Editor/Transient.Button_57).  Import failed...
+[2019.03.27-17.44.00:396][ 40]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_3"''
+[2019.03.27-17.44.02:517][ 40]LogSlate: Window 'Message' being destroyed
+[2019.03.27-17.44.07:073][154]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_0.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.07:073][154]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_1.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.07:073][154]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_2.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.07:073][154]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_3.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.07:073][154]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_4.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.07:073][154]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_5.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.07:073][154]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_6.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.07:073][154]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_7.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.07:073][154]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0.CanvasPanelSlot_5) from referencer (Button /Engine/UMG/Editor/Transient.Button_58).  Import failed...
+[2019.03.27-17.44.07:073][154]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_5"''
+[2019.03.27-17.44.23:975][494]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_0.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.23:975][494]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_1.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.23:975][494]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_2.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.23:975][494]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_3.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.23:975][494]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_4.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.23:975][494]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_5.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.23:975][494]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_6.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.23:975][494]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_7.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.23:975][494]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_8.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.23:975][494]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_9.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.23:975][494]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_10.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.23:975][494]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_11.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.23:975][494]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_12.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.23:975][494]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_13.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.23:975][494]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0.CanvasPanelSlot_11) from referencer (Button /Engine/UMG/Editor/Transient.Button_59).  Import failed...
+[2019.03.27-17.44.23:976][494]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_11"''
+[2019.03.27-17.44.36:943][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_0.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.36:943][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_1.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.36:943][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_2.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.36:943][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_3.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.36:943][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_4.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.36:943][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_5.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.36:943][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_6.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.36:943][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_7.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.36:943][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_8.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.36:943][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_9.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.36:943][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_10.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.36:943][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_11.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.36:943][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_12.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.36:943][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_13.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.36:943][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_14.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.36:943][759]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_8:MagicWidget_C_15.WidgetTree_0.CanvasPanel_0
+[2019.03.27-17.44.36:943][759]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget:WidgetTree.CanvasPanel_0.CanvasPanelSlot_14) from referencer (Button /Engine/UMG/Editor/Transient.Button_60).  Import failed...
+[2019.03.27-17.44.36:943][759]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_14"''
+[2019.03.27-17.46.56:624][464]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.063
+[2019.03.27-17.46.56:628][464]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/SpellCache] ([1] browsable assets)...
+[2019.03.27-17.46.56:628][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/SpellCache]
+[2019.03.27-17.46.56:643][464]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/SpellCache_Auto1667D6B0940E1ED5FA4654696CC775FEC.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/SpellCache_Auto1.uasset'
+[2019.03.27-17.46.56:647][464]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/KingKittyCharacter] ([1] browsable assets)...
+[2019.03.27-17.46.56:666][464]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/KingKittyCharacter.KingKittyCharacter]
+[2019.03.27-17.46.56:666][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/KingKittyCharacter]
+[2019.03.27-17.46.56:727][464]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/KingKittyCharacter_Auto14DA48B82453CB2748817E18DF6B6C01B.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/KingKittyCharacter_Auto1.uasset'
+[2019.03.27-17.46.56:730][464]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/MagicWidget] ([1] browsable assets)...
+[2019.03.27-17.46.56:730][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/MagicWidget]
+[2019.03.27-17.46.56:765][464]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/MagicWidget_Auto15743C85846A78E4CFD21B59A7BDFD758.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/MagicWidget_Auto1.uasset'
+[2019.03.27-17.46.56:768][464]LogFileHelpers: Auto-saving content packages took 0.143
+[2019.03.27-18.20.14:298][702]BlueprintLog: New page: Compile MagicWidget
+[2019.03.27-18.22.11:684][415]LogSlate: Took 0.008017 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.03.27-18.22.16:941][722]BlueprintLog: New page: Compile MagicWidget
+[2019.03.27-18.23.24:324][937]BlueprintLog: New page: Compile MagicWidget
+[2019.03.27-18.23.25:087][951]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/MagicWidget6601472B45271775E64C63AD459FF8D0.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/MagicWidget.uasset'
+[2019.03.27-18.23.38:830][726]BlueprintLog: New page: Compile MagicWidget
+[2019.03.27-18.23.39:852][775]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/MagicWidget51B4BA294B6D93FA7429A69597D9C49C.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/MagicWidget.uasset'
+[2019.03.27-18.27.18:269][760]BlueprintLog: New page: Compile MagicWidget
+[2019.03.27-18.27.18:288][760]LogBlueprint: Error: [Compiler MagicWidget] Default value '' for  Value Array  is invalid: 'Array inputs (like 'Value Array') must have an input wired into them (try connecting a MakeArray node).'
+[2019.03.27-18.27.18:289][760]LogBlueprint: Error: [Compiler MagicWidget] Binding: Property ' Tool Tip Text Delegate ' on Widget ' Fire ': Binding: 'None' : 'None' was not found on 'Magic Widget'.
+[2019.03.27-18.27.18:357][760]LogBlueprint: Warning: [Compiler MagicWidget] [3040.81] Compile of MagicWidget failed. 2 Fatal Issue(s) 0 Warning(s) [in 87 ms] (/Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget)
+[2019.03.27-18.28.57:905][ 16]BlueprintLog: New page: Compile MagicWidget
+[2019.03.27-18.28.57:928][ 16]LogBlueprint: Error: [Compiler MagicWidget] Binding: Property ' Tool Tip Text Delegate ' on Widget ' Fire ': Binding: 'None' : 'None' was not found on 'Magic Widget'.
+[2019.03.27-18.28.57:988][ 16]LogBlueprint: Warning: [Compiler MagicWidget] [3140.44] Compile of MagicWidget failed. 1 Fatal Issue(s) 0 Warning(s) [in 81 ms] (/Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget)
+[2019.03.27-18.29.03:101][274]LogBlueprint: Warning: Unknown type of hyperlinked object (Fire), cannot focus it
+[2019.03.27-18.29.04:595][351]LogBlueprint: Warning: Unknown type of hyperlinked object (Fire), cannot focus it
+[2019.03.27-18.29.05:877][421]LogBlueprint: Warning: Unknown type of hyperlinked object (ToolTipTextDelegate), cannot focus it
+[2019.03.27-18.29.06:375][450]LogBlueprint: Warning: Unknown type of hyperlinked object (ToolTipTextDelegate), cannot focus it
+[2019.03.27-18.29.06:631][464]LogBlueprint: Warning: Unknown type of hyperlinked object (ToolTipTextDelegate), cannot focus it
+[2019.03.27-18.29.08:241][546]BlueprintLog: New page: Compile MagicWidget
+[2019.03.27-18.29.08:267][546]LogBlueprint: Error: [Compiler MagicWidget] Binding: Property ' Tool Tip Text Delegate ' on Widget ' Fire ': Binding: 'None' : 'None' was not found on 'Magic Widget'.
+[2019.03.27-18.29.08:339][546]LogBlueprint: Warning: [Compiler MagicWidget] [3150.79] Compile of MagicWidget failed. 1 Fatal Issue(s) 0 Warning(s) [in 97 ms] (/Game/ThirdPersonBP/Blueprints/MagicWidget.MagicWidget)
+[2019.03.27-18.29.26:668][356]BlueprintLog: New page: Compile MagicWidget
+[2019.03.27-18.29.27:471][377]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/MagicWidgetFC687EEA4364703E86E86FA7534F37EC.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/MagicWidget.uasset'
+[2019.03.27-18.29.29:019][462]BlueprintLog: New page: Compile SpellCache
+[2019.03.27-18.29.29:701][496]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/SpellCacheA397C54F4E50996CD96C28BC034E611F.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/SpellCache.uasset'
+[2019.03.27-18.31.15:651][293]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.03.27-18.32.16:574][263]BlueprintLog: New page: Compile SpellCache
+[2019.03.27-18.32.41:552][730]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.052
+[2019.03.27-18.32.41:554][730]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/SpellCache] ([1] browsable assets)...
+[2019.03.27-18.32.41:554][730]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/SpellCache]
+[2019.03.27-18.32.41:575][730]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/SpellCache_Auto252CF4D29486415DCC18E34853DA21D23.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/SpellCache_Auto2.uasset'
+[2019.03.27-18.32.41:578][730]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Spell] ([1] browsable assets)...
+[2019.03.27-18.32.41:578][730]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Spell]
+[2019.03.27-18.32.41:592][730]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/Spell_Auto29D961A3A47A2726AD18FA5B8C31277ED.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Spell_Auto2.uasset'
+[2019.03.27-18.32.41:595][730]LogFileHelpers: Auto-saving content packages took 0.042
+[2019.03.27-18.32.47:139][ 51]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/SpellCacheA9CDD21D48194B998E9213B79B43E964.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/SpellCache.uasset'
+[2019.03.27-18.32.48:700][140]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/KingKittyCharacter836458BD402BF7BA0F7654B7A3364D87.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/KingKittyCharacter.uasset'
+[2019.03.27-18.32.49:354][175]BlueprintLog: New page: Compile KingKittyCharacter
+[2019.03.27-18.33.22:582][843]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.03.27-18.33.24:971][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-18.33.29:652][225]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.03.27-18.33.32:341][369]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-18.33.35:641][543]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/ThirdPersonExampleMap01BE2A1C4D72031ECC3CE3867678665C.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.03.27-18.33.46:606][187]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.03.27-18.35.16:495][279]LogEditorTransaction: Undo Paste clipboard contents
+[2019.03.27-18.35.43:393][604]LogSelectionDetails: Warning: NavigateToFunctionSource:  Found symbols for [UGameplayStatics::SetGamePaused] - File [d:\build\++ue4\sync\engine\source\runtime\engine\private\gameplaystatics.cpp], Line [336], Column [0]
+[2019.03.27-18.35.46:125][700]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2019.03.27-18.35.46:141][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:141][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:142][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:142][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:142][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:142][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:142][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:143][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:143][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:143][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:143][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:143][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:144][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:144][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:144][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:144][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:144][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:145][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:145][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:145][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:145][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:145][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:146][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:146][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:146][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:146][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:146][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:147][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:147][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:147][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:147][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:147][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:147][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:148][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:148][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:148][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:148][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:148][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:149][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:149][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:149][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:149][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:149][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:150][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:150][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:150][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:150][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:150][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:151][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:151][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:151][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:151][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:152][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:152][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:152][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:152][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:152][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:153][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:153][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:153][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:153][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:153][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:154][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:154][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:154][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:154][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:154][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:155][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:155][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:155][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:155][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:155][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:156][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:156][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:156][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:156][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:156][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:157][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:157][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:157][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:157][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:157][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:158][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:158][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:158][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:158][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:158][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:159][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:159][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:159][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:159][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:159][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:160][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:160][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:160][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:160][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:160][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:161][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:161][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:161][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:161][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:161][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:161][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:161][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:161][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:161][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:162][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:162][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:162][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:162][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:162][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:162][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:162][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:162][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:162][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:162][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:163][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:163][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:163][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:163][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:163][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:163][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:163][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:164][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:164][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:164][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:164][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:164][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:165][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:165][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:165][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:165][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:166][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:166][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:166][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:166][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:166][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:167][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:167][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:167][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:167][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:167][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:168][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:168][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:168][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:168][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:168][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:169][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:169][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:169][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:169][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:170][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:170][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:170][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:170][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:170][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:170][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:171][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:171][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:171][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:171][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:171][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:172][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:172][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:172][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:172][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:172][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:173][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:173][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:173][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:173][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:174][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:174][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:174][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:174][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:174][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:175][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:175][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:175][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:175][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:175][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:175][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:176][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:176][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:176][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:176][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:176][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:176][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:176][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:176][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:176][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:177][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:177][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:177][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:177][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:177][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:177][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:190][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:190][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:190][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:190][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:203][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:204][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:204][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:212][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:243][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:261][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:261][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:274][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:279][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:279][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:279][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:280][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.35.46:359][700]LogVSAccessor: Warning: Couldn't access module table
+[2019.03.27-18.36.19:890][455]BlueprintLog: New page: Compile KingKittyCharacter
+[2019.03.27-18.36.20:688][475]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/KingKittyCharacter16518B1F47FD73B0A1AA2DA946C1DAF3.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/KingKittyCharacter.uasset'
+[2019.03.27-18.36.21:935][534]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.27-18.36.21:978][534]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.36.21:979][534]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-18.36.21:983][534]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 27, 2019, 10:36:21 AM)
+[2019.03.27-18.36.21:998][534]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.03.27-18.36.22:017][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018344s)
+[2019.03.27-18.36.22:017][534]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.03.27-18.36.22:018][534]LogPlayLevel: PIE: World Init took: (0.001073s)
+[2019.03.27-18.36.22:018][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.019812s)
+[2019.03.27-18.36.22:096][534]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.27-18.36.22:115][534]LogInit: FAudioDevice initialized.
+[2019.03.27-18.36.22:212][534]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.27-18.36.22:216][534]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.03.27-14.36.22
+[2019.03.27-18.36.22:230][534]LogWorld: Bringing up level for play took: 0.016660
+[2019.03.27-18.36.22:282][534]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.03.27-18.36.22:283][534]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.295
+[2019.03.27-18.36.22:283][534]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.36.30:907][ 29]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.36.30:908][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.36.30:963][ 29]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-18.36.30:964][ 29]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.36.31:032][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.36.31:129][ 30]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.03.27-18.36.33:449][189]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.27-18.36.36:939][430]LogEditorViewport: Clicking on Actor (LMB): KingKittyCharacter_C (KingKittyCharacter)
+[2019.03.27-18.36.37:584][451]LogEditorViewport: Clicking on Actor (context menu): KingKittyCharacter_C (KingKittyCharacter)
+[2019.03.27-18.36.37:621][451]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.27-18.37.08:116][ 14]LogEditorActor: Deleted Actor: ThirdPersonCharacter_C
+[2019.03.27-18.37.08:175][ 14]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2019.03.27-18.37.10:320][143]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/ThirdPersonExampleMapCD709FED487E371E8525E59D3B5EC840.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.03.27-18.37.10:972][181]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.27-18.37.10:997][181]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.37.10:997][181]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-18.37.10:997][181]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 27, 2019, 10:37:10 AM)
+[2019.03.27-18.37.10:997][181]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.03.27-18.37.11:011][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013437s)
+[2019.03.27-18.37.11:011][181]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.03.27-18.37.11:012][181]LogPlayLevel: PIE: World Init took: (0.000667s)
+[2019.03.27-18.37.11:012][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014267s)
+[2019.03.27-18.37.11:059][181]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.27-18.37.11:072][181]LogInit: FAudioDevice initialized.
+[2019.03.27-18.37.11:105][181]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.27-18.37.11:107][181]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.03.27-14.37.11
+[2019.03.27-18.37.11:107][181]LogWorld: Bringing up level for play took: 0.001754
+[2019.03.27-18.37.11:125][181]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.546
+[2019.03.27-18.37.11:125][181]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.37.17:286][548]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.37.17:286][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.37.17:340][548]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-18.37.17:341][548]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.37.17:405][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.37.17:498][549]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.03.27-18.37.18:695][629]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.27-18.37.19:508][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-18.37.19:629][682]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.27-18.37.19:654][682]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.37.19:654][682]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-18.37.19:654][682]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 27, 2019, 10:37:19 AM)
+[2019.03.27-18.37.19:654][682]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.03.27-18.37.19:668][682]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013809s)
+[2019.03.27-18.37.19:669][682]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.03.27-18.37.19:669][682]LogPlayLevel: PIE: World Init took: (0.000807s)
+[2019.03.27-18.37.19:669][682]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014805s)
+[2019.03.27-18.37.19:719][682]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.27-18.37.19:732][682]LogInit: FAudioDevice initialized.
+[2019.03.27-18.37.19:768][682]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.27-18.37.19:771][682]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.03.27-14.37.19
+[2019.03.27-18.37.19:772][682]LogWorld: Bringing up level for play took: 0.003092
+[2019.03.27-18.37.19:788][682]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.79
+[2019.03.27-18.37.19:788][682]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.37.27:085][224]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.37.27:086][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.37.27:138][224]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-18.37.27:139][224]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.37.27:198][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.37.27:304][225]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.03.27-18.37.30:082][421]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-18.37.38:962][ 57]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.27-18.37.38:990][ 57]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.37.38:990][ 57]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.27-18.37.39:005][ 57]LogPlayLevel: [PlayLevel] Compiling KingKittyCharacter before play...
+[2019.03.27-18.37.39:408][ 57]LogPlayLevel: PlayLevel: Blueprint regeneration took 418 ms (1 blueprints)
+[2019.03.27-18.37.39:408][ 57]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 27, 2019, 10:37:39 AM)
+[2019.03.27-18.37.39:409][ 57]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.03.27-18.37.39:422][ 57]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013818s)
+[2019.03.27-18.37.39:423][ 57]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.03.27-18.37.39:423][ 57]LogPlayLevel: PIE: World Init took: (0.000816s)
+[2019.03.27-18.37.39:423][ 57]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014873s)
+[2019.03.27-18.37.39:473][ 57]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.27-18.37.39:486][ 57]LogInit: FAudioDevice initialized.
+[2019.03.27-18.37.39:519][ 57]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.27-18.37.39:521][ 57]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.03.27-14.37.39
+[2019.03.27-18.37.39:522][ 57]LogWorld: Bringing up level for play took: 0.001872
+[2019.03.27-18.37.39:537][ 57]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.959
+[2019.03.27-18.37.39:537][ 57]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.37.48:761][719]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.37.48:761][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.37.48:802][719]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-18.37.48:802][719]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.37.48:876][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.37.48:915][720]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.03.27-18.37.50:424][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-18.38.01:462][415]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.03.27-18.38.01:573][417]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.KingKittyQuest
+[2019.03.27-18.38.01:573][417]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.03.27-18.38.01:573][417]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.21
+[2019.03.27-18.38.01:573][417]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.03.27-18.38.01:605][418]LogTemp: BranchPath = ATC-172-18/C/Program Files/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = ATC-172-18/C/Program Files/Epic Games/UE_4.21/Engine/Binaries
+[2019.03.27-18.38.01:605][418]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\smithja\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.03.27-18.38.17:502][257]LogSlate: Window 'Project Settings' being destroyed
+[2019.03.27-18.38.17:508][257]LogSlate: Window 'Project Settings' being destroyed
+[2019.03.27-18.38.38:435][657]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.27-18.38.38:475][657]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.38.38:475][657]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-18.38.38:475][657]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 27, 2019, 10:38:38 AM)
+[2019.03.27-18.38.38:475][657]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.03.27-18.38.38:488][657]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012469s)
+[2019.03.27-18.38.38:488][657]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.03.27-18.38.38:488][657]LogPlayLevel: PIE: World Init took: (0.000784s)
+[2019.03.27-18.38.38:489][657]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013454s)
+[2019.03.27-18.38.38:536][657]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.27-18.38.38:549][657]LogInit: FAudioDevice initialized.
+[2019.03.27-18.38.38:584][657]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.27-18.38.38:586][657]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.03.27-14.38.38
+[2019.03.27-18.38.38:586][657]LogWorld: Bringing up level for play took: 0.001780
+[2019.03.27-18.38.38:600][657]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.021
+[2019.03.27-18.38.38:600][657]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.38.43:925][997]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.38.43:925][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.38.43:976][997]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-18.38.43:976][997]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.38.44:031][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.38.44:134][998]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.03.27-18.38.47:732][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-18.38.50:455][401]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/KingKittyCharacter1501CF0C47EDC2D3EB1BFEB5FF0AA012.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/KingKittyCharacter.uasset'
+[2019.03.27-18.39.36:865][580]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/KingKittyCharacterC7F7165547964DBAAC21B0A00FEBC9C5.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/KingKittyCharacter.uasset'
+[2019.03.27-18.40.11:415][108]BlueprintLog: New page: Compile KingKittyCharacter
+[2019.03.27-18.40.12:192][130]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/KingKittyCharacter27210968440DE434D45EB08B981CDC34.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/KingKittyCharacter.uasset'
+[2019.03.27-18.40.13:797][225]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.27-18.40.13:839][225]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.40.13:839][225]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-18.40.13:839][225]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 27, 2019, 10:40:13 AM)
+[2019.03.27-18.40.13:839][225]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.03.27-18.40.13:852][225]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013364s)
+[2019.03.27-18.40.13:853][225]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.03.27-18.40.13:853][225]LogPlayLevel: PIE: World Init took: (0.000824s)
+[2019.03.27-18.40.13:853][225]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014379s)
+[2019.03.27-18.40.13:905][225]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.27-18.40.13:919][225]LogInit: FAudioDevice initialized.
+[2019.03.27-18.40.13:950][225]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.27-18.40.13:952][225]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.03.27-14.40.13
+[2019.03.27-18.40.13:953][225]LogWorld: Bringing up level for play took: 0.001800
+[2019.03.27-18.40.13:967][225]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.611
+[2019.03.27-18.40.13:967][225]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.40.18:523][543]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.40.18:524][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.40.18:573][543]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-18.40.18:573][543]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.40.18:638][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.40.18:733][544]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.03.27-18.40.20:505][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-18.41.57:042][240]BlueprintLog: New page: Compile KingKittyCharacter
+[2019.03.27-18.41.58:100][269]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/KingKittyCharacter1B84746843255B700EE9849AA3D33BDF.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/KingKittyCharacter.uasset'
+[2019.03.27-18.41.59:489][368]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.27-18.41.59:543][368]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.41.59:543][368]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-18.41.59:543][368]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 27, 2019, 10:41:59 AM)
+[2019.03.27-18.41.59:543][368]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.03.27-18.41.59:554][368]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010720s)
+[2019.03.27-18.41.59:555][368]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.03.27-18.41.59:555][368]LogPlayLevel: PIE: World Init took: (0.000730s)
+[2019.03.27-18.41.59:555][368]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011615s)
+[2019.03.27-18.41.59:605][368]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.27-18.41.59:618][368]LogInit: FAudioDevice initialized.
+[2019.03.27-18.41.59:650][368]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.27-18.41.59:652][368]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.03.27-14.41.59
+[2019.03.27-18.41.59:653][368]LogWorld: Bringing up level for play took: 0.001785
+[2019.03.27-18.41.59:668][368]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.09
+[2019.03.27-18.41.59:669][368]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.42.05:648][766]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.42.05:649][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.42.05:715][766]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-18.42.05:715][766]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.42.05:781][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.42.05:871][767]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.03.27-18.42.06:949][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-18.42.22:854][858]BlueprintLog: New page: Compile KingKittyCharacter
+[2019.03.27-18.42.22:888][858]LogBlueprint: Error: [Compiler KingKittyCharacter] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2019.03.27-18.42.23:157][858]LogBlueprint: Warning: [Compiler KingKittyCharacter] [3945.61] Compile of KingKittyCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 303 ms] (/Game/ThirdPersonBP/Blueprints/KingKittyCharacter.KingKittyCharacter)
+[2019.03.27-18.42.29:849][303]BlueprintLog: New page: Compile KingKittyCharacter
+[2019.03.27-18.42.30:654][323]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/KingKittyCharacterF4554D4F4462549C5A9CAF94F0C20025.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/KingKittyCharacter.uasset'
+[2019.03.27-18.42.32:477][443]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.27-18.42.32:518][443]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.42.32:518][443]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-18.42.32:518][443]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 27, 2019, 10:42:32 AM)
+[2019.03.27-18.42.32:518][443]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.03.27-18.42.32:528][443]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010371s)
+[2019.03.27-18.42.32:529][443]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.03.27-18.42.32:529][443]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2019.03.27-18.42.32:529][443]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011307s)
+[2019.03.27-18.42.32:584][443]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.27-18.42.32:597][443]LogInit: FAudioDevice initialized.
+[2019.03.27-18.42.32:634][443]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.27-18.42.32:637][443]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.03.27-14.42.32
+[2019.03.27-18.42.32:638][443]LogWorld: Bringing up level for play took: 0.003096
+[2019.03.27-18.42.32:653][443]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.075
+[2019.03.27-18.42.32:654][443]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.42.37:344][709]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.42.37:344][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.42.37:407][709]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-18.42.37:408][709]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.42.37:471][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.42.37:576][710]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.03.27-18.42.38:659][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-18.42.52:586][715]BlueprintLog: New page: Compile KingKittyCharacter
+[2019.03.27-18.42.53:432][730]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/KingKittyCharacter55C4DBF9459CF677A4C187B6626A03A2.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/KingKittyCharacter.uasset'
+[2019.03.27-18.42.54:606][809]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.27-18.42.54:648][809]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.42.54:648][809]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-18.42.54:648][809]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 27, 2019, 10:42:54 AM)
+[2019.03.27-18.42.54:648][809]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.03.27-18.42.54:659][809]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010453s)
+[2019.03.27-18.42.54:659][809]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.03.27-18.42.54:660][809]LogPlayLevel: PIE: World Init took: (0.000672s)
+[2019.03.27-18.42.54:660][809]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011326s)
+[2019.03.27-18.42.54:714][809]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.27-18.42.54:727][809]LogInit: FAudioDevice initialized.
+[2019.03.27-18.42.54:758][809]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.27-18.42.54:760][809]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.03.27-14.42.54
+[2019.03.27-18.42.54:760][809]LogWorld: Bringing up level for play took: 0.001759
+[2019.03.27-18.42.54:775][809]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.197
+[2019.03.27-18.42.54:776][809]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.42.57:469][997]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.42.57:470][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.42.57:523][997]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-18.42.57:523][997]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.42.57:585][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.42.57:671][998]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.03.27-18.43.00:384][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-18.43.51:206][ 77]BlueprintLog: New page: Compile KingKittyCharacter
+[2019.03.27-18.43.52:261][114]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/KingKittyCharacter39C0E38F48A2D89FF59D3A9E8C054F00.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/KingKittyCharacter.uasset'
+[2019.03.27-18.43.54:032][233]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.27-18.43.54:075][233]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.43.54:075][233]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-18.43.54:075][233]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 27, 2019, 10:43:54 AM)
+[2019.03.27-18.43.54:075][233]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.03.27-18.43.54:085][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010022s)
+[2019.03.27-18.43.54:086][233]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.03.27-18.43.54:086][233]LogPlayLevel: PIE: World Init took: (0.000763s)
+[2019.03.27-18.43.54:086][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010965s)
+[2019.03.27-18.43.54:143][233]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.27-18.43.54:156][233]LogInit: FAudioDevice initialized.
+[2019.03.27-18.43.54:189][233]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.27-18.43.54:192][233]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.03.27-14.43.54
+[2019.03.27-18.43.54:192][233]LogWorld: Bringing up level for play took: 0.001854
+[2019.03.27-18.43.54:206][233]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.372
+[2019.03.27-18.43.54:206][233]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.43.54:750][254]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2019.03.27-18.43.57:380][429]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.43.57:380][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.43.57:433][429]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-18.43.57:434][429]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.43.57:495][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.43.57:506][429]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.27-18.43.57:662][430]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.03.27-18.44.02:027][688]LogSlate: Window 'Message Log' being destroyed
+[2019.03.27-18.44.02:039][688]LogSlate: Window 'Message Log' being destroyed
+[2019.03.27-18.44.23:722][ 48]BlueprintLog: New page: Compile KingKittyCharacter
+[2019.03.27-18.44.25:924][155]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/KingKittyCharacter4A588F7444EC2552CC404BA9D2617BB6.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/KingKittyCharacter.uasset'
+[2019.03.27-18.44.31:746][557]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.27-18.44.31:790][557]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.44.31:791][557]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-18.44.31:791][557]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 27, 2019, 10:44:31 AM)
+[2019.03.27-18.44.31:791][557]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.03.27-18.44.31:802][557]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011432s)
+[2019.03.27-18.44.31:803][557]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.03.27-18.44.31:803][557]LogPlayLevel: PIE: World Init took: (0.001102s)
+[2019.03.27-18.44.31:804][557]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012798s)
+[2019.03.27-18.44.31:860][557]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.27-18.44.31:872][557]LogInit: FAudioDevice initialized.
+[2019.03.27-18.44.31:901][557]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.27-18.44.31:903][557]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.03.27-14.44.31
+[2019.03.27-18.44.31:904][557]LogWorld: Bringing up level for play took: 0.001893
+[2019.03.27-18.44.31:919][557]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.659
+[2019.03.27-18.44.31:920][557]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.44.32:404][572]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.27-18.44.36:126][814]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.44.36:126][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.44.36:179][814]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-18.44.36:179][814]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.44.36:241][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.44.36:330][815]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.03.27-18.44.37:775][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-18.46.16:445][703]BlueprintLog: New page: Compile KingKittyCharacter
+[2019.03.27-18.46.17:326][728]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/KingKittyCharacter16E158B44A8D9AC9590995B3B0DD5F1C.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/KingKittyCharacter.uasset'
+[2019.03.27-18.46.18:465][809]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.27-18.46.18:512][809]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.46.18:512][809]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-18.46.18:512][809]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 27, 2019, 10:46:18 AM)
+[2019.03.27-18.46.18:513][809]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.03.27-18.46.18:525][809]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012378s)
+[2019.03.27-18.46.18:526][809]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.03.27-18.46.18:526][809]LogPlayLevel: PIE: World Init took: (0.000954s)
+[2019.03.27-18.46.18:526][809]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013530s)
+[2019.03.27-18.46.18:576][809]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.27-18.46.18:589][809]LogInit: FAudioDevice initialized.
+[2019.03.27-18.46.18:618][809]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.27-18.46.18:620][809]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.03.27-14.46.18
+[2019.03.27-18.46.18:621][809]LogWorld: Bringing up level for play took: 0.001932
+[2019.03.27-18.46.18:637][809]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.059
+[2019.03.27-18.46.18:637][809]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.46.19:197][831]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.27-18.46.21:531][983]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-18.46.27:975][405]LogBlueprintUserMessages: [MagicWidget_C_0] E
+[2019.03.27-18.46.35:287][887]LogBlueprintUserMessages: [MagicWidget_C_0] E
+[2019.03.27-18.46.39:468][161]LogBlueprintUserMessages: [MagicWidget_C_0] W
+[2019.03.27-18.46.47:303][605]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.46.47:303][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.46.47:357][605]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-18.46.47:357][605]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.46.47:418][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.46.47:508][606]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.03.27-18.47.07:335][761]BlueprintLog: New page: Compile MagicWidget
+[2019.03.27-18.47.09:237][858]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.27-18.47.09:263][858]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.47.09:263][858]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-18.47.09:263][858]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 27, 2019, 10:47:09 AM)
+[2019.03.27-18.47.09:263][858]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.03.27-18.47.09:274][858]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010879s)
+[2019.03.27-18.47.09:275][858]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.03.27-18.47.09:275][858]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2019.03.27-18.47.09:275][858]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011909s)
+[2019.03.27-18.47.09:326][858]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.27-18.47.09:338][858]LogInit: FAudioDevice initialized.
+[2019.03.27-18.47.09:372][858]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.27-18.47.09:374][858]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.03.27-14.47.09
+[2019.03.27-18.47.09:375][858]LogWorld: Bringing up level for play took: 0.001820
+[2019.03.27-18.47.09:390][858]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.809
+[2019.03.27-18.47.09:390][858]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.47.10:974][943]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.27-18.47.12:149][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-18.47.14:273][139]LogBlueprintUserMessages: [MagicWidget_C_0] E
+[2019.03.27-18.47.21:214][552]LogBlueprintUserMessages: [MagicWidget_C_0] E
+[2019.03.27-18.47.34:920][442]LogSlate: Took 0.006496 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.03.27-18.47.39:423][712]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.47.39:424][712]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.47.39:464][712]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-18.47.39:465][712]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.47.39:527][712]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.47.39:558][713]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.03.27-18.47.40:421][768]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.27-18.47.40:447][768]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.47.40:448][768]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-18.47.40:448][768]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 27, 2019, 10:47:40 AM)
+[2019.03.27-18.47.40:448][768]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.03.27-18.47.40:458][768]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009835s)
+[2019.03.27-18.47.40:459][768]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.03.27-18.47.40:460][768]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2019.03.27-18.47.40:460][768]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011479s)
+[2019.03.27-18.47.40:509][768]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.27-18.47.40:521][768]LogInit: FAudioDevice initialized.
+[2019.03.27-18.47.40:551][768]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.27-18.47.40:553][768]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.03.27-14.47.40
+[2019.03.27-18.47.40:554][768]LogWorld: Bringing up level for play took: 0.002019
+[2019.03.27-18.47.40:568][768]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.014
+[2019.03.27-18.47.40:568][768]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.47.41:164][805]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.27-18.47.48:937][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-18.47.53:153][591]LogBlueprintUserMessages: [MagicWidget_C_0] W
+[2019.03.27-18.48.03:841][295]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.48.03:842][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.48.03:879][295]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-18.48.03:879][295]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.48.03:944][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.48.03:972][296]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.03.27-18.49.14:229][996]BlueprintLog: New page: Compile MagicWidget
+[2019.03.27-18.49.15:226][ 46]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/MagicWidget6E0ABAFC43B613D249068C99699EBD4C.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/MagicWidget.uasset'
+[2019.03.27-18.49.16:627][128]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/MagicWidget4777E385417965333B684688A9269A75.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/MagicWidget.uasset'
+[2019.03.27-18.49.18:243][229]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.27-18.49.18:268][229]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.49.18:269][229]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-18.49.18:269][229]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 27, 2019, 10:49:18 AM)
+[2019.03.27-18.49.18:270][229]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.03.27-18.49.18:281][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010794s)
+[2019.03.27-18.49.18:282][229]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.03.27-18.49.18:282][229]LogPlayLevel: PIE: World Init took: (0.001058s)
+[2019.03.27-18.49.18:282][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012514s)
+[2019.03.27-18.49.18:338][229]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.27-18.49.18:351][229]LogInit: FAudioDevice initialized.
+[2019.03.27-18.49.18:384][229]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.27-18.49.18:386][229]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.03.27-14.49.18
+[2019.03.27-18.49.18:387][229]LogWorld: Bringing up level for play took: 0.002098
+[2019.03.27-18.49.18:400][229]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.186
+[2019.03.27-18.49.18:401][229]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.49.19:764][305]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.27-18.49.20:756][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-18.49.23:919][562]LogBlueprintUserMessages: [MagicWidget_C_0] E
+[2019.03.27-18.49.23:919][562]LogBlueprintUserMessages: [MagicWidget_C_0] E
+[2019.03.27-18.49.23:919][562]LogBlueprintUserMessages: [MagicWidget_C_0] E
+[2019.03.27-18.49.23:919][562]LogBlueprintUserMessages: [MagicWidget_C_0] E
+[2019.03.27-18.49.23:919][562]LogBlueprintUserMessages: [MagicWidget_C_0] E
+[2019.03.27-18.49.23:919][562]LogBlueprintUserMessages: [MagicWidget_C_0] E
+[2019.03.27-18.49.23:919][562]LogBlueprintUserMessages: [MagicWidget_C_0] E
+[2019.03.27-18.49.23:920][562]LogBlueprintUserMessages: [MagicWidget_C_0] E
+[2019.03.27-18.49.23:920][562]LogBlueprintUserMessages: [MagicWidget_C_0] E
+[2019.03.27-18.49.41:541][713]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.49.41:543][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.49.41:584][713]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-18.49.41:584][713]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.49.41:647][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.49.41:676][714]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.03.27-18.50.06:514][677]BlueprintLog: New page: Compile MagicWidget
+[2019.03.27-18.50.07:254][718]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/MagicWidget7575386445E6C69454D3E68D6BD6B1CE.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Content/ThirdPersonBP/Blueprints/MagicWidget.uasset'
+[2019.03.27-18.50.08:569][817]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.27-18.50.08:594][817]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.50.08:595][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.27-18.50.08:595][817]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 27, 2019, 10:50:08 AM)
+[2019.03.27-18.50.08:596][817]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.03.27-18.50.08:606][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010238s)
+[2019.03.27-18.50.08:607][817]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.03.27-18.50.08:607][817]LogPlayLevel: PIE: World Init took: (0.001020s)
+[2019.03.27-18.50.08:608][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011959s)
+[2019.03.27-18.50.08:658][817]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.27-18.50.08:671][817]LogInit: FAudioDevice initialized.
+[2019.03.27-18.50.08:705][817]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.03.27-18.50.08:709][817]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.03.27-14.50.08
+[2019.03.27-18.50.08:710][817]LogWorld: Bringing up level for play took: 0.003683
+[2019.03.27-18.50.08:726][817]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.137
+[2019.03.27-18.50.08:727][817]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.50.09:463][861]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2019.03.27-18.50.12:315][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.27-18.50.17:154][362]LogBlueprintUserMessages: [MagicWidget_C_0] F
+[2019.03.27-18.50.17:155][362]LogBlueprintUserMessages: [MagicWidget_C_0] F
+[2019.03.27-18.50.17:155][362]LogBlueprintUserMessages: [MagicWidget_C_0] F
+[2019.03.27-18.50.17:155][362]LogBlueprintUserMessages: [MagicWidget_C_0] F
+[2019.03.27-18.50.17:155][362]LogBlueprintUserMessages: [MagicWidget_C_0] A
+[2019.03.27-18.50.17:155][362]LogBlueprintUserMessages: [MagicWidget_C_0] A
+[2019.03.27-18.50.17:155][362]LogBlueprintUserMessages: [MagicWidget_C_0] W
+[2019.03.27-18.50.17:155][362]LogBlueprintUserMessages: [MagicWidget_C_0] W
+[2019.03.27-18.50.17:156][362]LogBlueprintUserMessages: [MagicWidget_C_0] E
+[2019.03.27-18.50.17:156][362]LogBlueprintUserMessages: [MagicWidget_C_0] E
+[2019.03.27-18.50.17:156][362]LogBlueprintUserMessages: [MagicWidget_C_0] W
+[2019.03.27-18.50.17:156][362]LogBlueprintUserMessages: [MagicWidget_C_0] W
+[2019.03.27-18.50.17:156][362]LogBlueprintUserMessages: [MagicWidget_C_0] Is this done
+[2019.03.27-18.50.22:496][693]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.50.22:497][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.50.22:540][693]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.27-18.50.22:541][693]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.03.27-18.50.22:608][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.27-18.50.22:636][694]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.03.27-18.50.57:679][551]LogSavePackage: Moving '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/ThirdPersonExampleMap_Auto309DA9DBD494D7A7BDCD30A9E2EDF54D6.tmp' to '../../../../../../Users/smithja/Desktop/KingKittyQuest/KingKittyQuest 4.21 - 2/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2019.03.27-18.50.57:694][551]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.473
+[2019.03.27-18.50.57:694][551]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.473
